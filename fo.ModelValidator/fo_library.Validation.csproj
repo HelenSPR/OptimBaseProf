@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B89A1B64-1FB2-4C24-B1F9-3A6222EF2C3E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>fo_library.Validation</RootNamespace>
+    <AssemblyName>fo_library.Validation</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Atechnology.Components, Version=1.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\windraw_test\Atechnology.Components.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.DBConnection, Version=1.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\windraw_test\Atechnology.DBConnection.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.ecad.Calc">
+      <HintPath>..\..\windraw_test\Atechnology.ecad.Calc.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.ecad.Document">
+      <HintPath>..\..\windraw_test\Atechnology.ecad.Document.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.Logging">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\Atechnology.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.winDraw">
+      <HintPath>..\..\windraw_test\Atechnology.winDraw.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.winDraw.Model">
+      <HintPath>..\..\windraw_test\Atechnology.winDraw.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="DatabaseHelper">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DatabaseHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v8.2.Core">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.Charts.v8.2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.Data.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.Utils.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraBars.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraCharts.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v8.2.UI">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraCharts.v8.2.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraEditors.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraGrid.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraLayout.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraNavBar.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraScheduler.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v8.2.Core">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraScheduler.v8.2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v8.2.Extensions">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraScheduler.v8.2.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraTreeList.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PositionValidation\ColorValidators\ColorValidator.cs" />
+    <Compile Include="PositionValidation\ColorValidators\InsideColorValidator.cs" />
+    <Compile Include="PositionValidation\ColorValidators\OutsideColorValidator.cs" />
+    <Compile Include="PositionValidation\Exceptions\CalcModelNullReferenceException.cs" />
+    <Compile Include="PositionValidation\Exceptions\NativeModelNullReferenceException.cs" />
+    <Compile Include="PositionValidation\Exceptions\OrderCalcPositionNullReference.cs" />
+    <Compile Include="PositionValidation\PositionValidator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Validator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\fo_library.Correspondence\fo_library.Correspondence.csproj">
+      <Project>{2fd61e95-55ad-4037-a0c4-4033e2f00527}</Project>
+      <Name>fo_library.Correspondence</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\fo_library.Model\fo_library.Model.csproj">
+      <Project>{d8466c4f-16d0-49c2-9bce-a6240e67af4e}</Project>
+      <Name>fo_library.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

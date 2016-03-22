@@ -1,0 +1,44 @@
+D:\fo_library2\fo_library.Model\bin\Release\fo_library.Model.dll.config
+D:\fo_library2\fo_library.Model\bin\Release\fo_library.Model.dll
+D:\fo_library2\fo_library.Model\bin\Release\fo_library.Model.pdb
+D:\fo_library2\fo_library.Model\bin\Release\Atechnology.DBConnection.dll
+D:\fo_library2\fo_library.Model\bin\Release\Atechnology.ecad.Settings.dll
+D:\fo_library2\fo_library.Model\bin\Release\Atechnology.Logging.dll
+D:\fo_library2\fo_library.Model\bin\Release\log4net.dll
+D:\fo_library2\fo_library.Model\bin\Release\Atechnology.Components.dll
+D:\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Release\DevExpress.Utils.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraEditors.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraGrid.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraBars.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Release\DevExpress.Data.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Release\SandDock.dll
+D:\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraLayout.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\fo_library2\fo_library.Model\obj\Release\fo_library.Model.dll
+D:\fo_library2\fo_library.Model\obj\Release\fo_library.Model.pdb
+D:\fo_library2\fo_library.Model\obj\Release\fo_library.Model.csprojResolveAssemblyReference.cache
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\fo_library.Model.dll.config
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\fo_library.Model.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\fo_library.Model.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\obj\Release\fo_library.Model.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\obj\Release\fo_library.Model.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\log4net.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DatabaseHelper.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.Charts.v8.2.Core.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.Data.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.Utils.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraBars.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraCharts.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraCharts.v8.2.UI.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraEditors.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraGrid.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraLayout.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraScheduler.v8.2.Core.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraScheduler.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraScheduler.v8.2.Extensions.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Model\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll

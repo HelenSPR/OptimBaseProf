@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 16, 21.5" name="WindrawDb">
+  <DataContextMoniker Name="/WindrawDbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="cc0880b1-1f10-46f2-898c-0a0f404df832" absoluteBounds="0.75, 0.5, 2, 13.116681315104165">
+      <DataClassMoniker Name="/WindrawDbDataContext/order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="106d4df2-efcd-42a9-9aa3-09c2b1a41421" absoluteBounds="0.76499999999999968, 0.96, 1.9700000000000002, 12.556681315104166" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7894aaf1-1896-4c50-966e-0ff834dbaefb" absoluteBounds="5.125, 1.25, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/WindrawDbDataContext/ordersign" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8206a6dc-caae-47b4-b70a-b031433a1cf9" absoluteBounds="5.1400000000000006, 1.71, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.71875); (5.125 : 2.71875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/WindrawDbDataContext/order/order_ordersign" />
+      <nodes>
+        <classShapeMoniker Id="cc0880b1-1f10-46f2-898c-0a0f404df832" />
+        <classShapeMoniker Id="7894aaf1-1896-4c50-966e-0ff834dbaefb" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="e68040c4-e6cc-4477-857d-24fb32d68b9d" absoluteBounds="9, 1.25, 2, 1.9631982421875">
+      <DataClassMoniker Name="/WindrawDbDataContext/sign" />
+      <nestedChildShapes>
+        <elementListCompartment Id="61206fa7-153d-4135-83da-9a6939cac840" absoluteBounds="9.015, 1.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(9 : 2.23159912109375); (7.125 : 2.23159912109375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/WindrawDbDataContext/sign/sign_ordersign" />
+      <nodes>
+        <classShapeMoniker Id="e68040c4-e6cc-4477-857d-24fb32d68b9d" />
+        <classShapeMoniker Id="7894aaf1-1896-4c50-966e-0ff834dbaefb" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="01a4dce9-8e17-4585-83b5-4730ba16119a" absoluteBounds="9.25, 3.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/WindrawDbDataContext/signvalue" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4b3735c9-c6c1-4e1f-a2d4-f954d6a5b1df" absoluteBounds="9.265, 4.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(9.25 : 4.15465413411458); (7.125 : 4.15465413411458)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/WindrawDbDataContext/signvalue/signvalue_ordersign" />
+      <nodes>
+        <classShapeMoniker Id="01a4dce9-8e17-4585-83b5-4730ba16119a" />
+        <classShapeMoniker Id="7894aaf1-1896-4c50-966e-0ff834dbaefb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.125 : 3.2131982421875); (10.125 : 3.75)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/WindrawDbDataContext/sign/sign_signvalue" />
+      <nodes>
+        <classShapeMoniker Id="e68040c4-e6cc-4477-857d-24fb32d68b9d" />
+        <classShapeMoniker Id="01a4dce9-8e17-4585-83b5-4730ba16119a" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="422ef147-32dc-4287-b5e4-92383261f6ac" absoluteBounds="7, 5, 2, 6.3861311848958326">
+      <DataClassMoniker Name="/WindrawDbDataContext/people" />
+      <nestedChildShapes>
+        <elementListCompartment Id="59571ab5-de92-4a06-abed-03b74848e30f" absoluteBounds="7.015, 5.46, 1.9700000000000002, 5.826131184895833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(7 : 7.27485270182292); (2.75 : 7.27485270182292)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/WindrawDbDataContext/people/people_order" />
+      <nodes>
+        <classShapeMoniker Id="422ef147-32dc-4287-b5e4-92383261f6ac" />
+        <classShapeMoniker Id="cc0880b1-1f10-46f2-898c-0a0f404df832" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.499998 : 5); (7.499998 : 4.80930826822917); (6.125 : 4.80930826822917); (6.125 : 4.55930826822917)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/WindrawDbDataContext/people/people_ordersign" />
+      <nodes>
+        <classShapeMoniker Id="422ef147-32dc-4287-b5e4-92383261f6ac" />
+        <classShapeMoniker Id="7894aaf1-1896-4c50-966e-0ff834dbaefb" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="8cc759dc-3d4c-4615-a637-7740da51f868" absoluteBounds="3.125, 4.25, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/WindrawDbDataContext/model" />
+      <nestedChildShapes>
+        <elementListCompartment Id="72ac6496-e449-4932-ad2f-eebe11f33e63" absoluteBounds="3.1400000000000006, 4.71, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 5.71235270182292); (3.125 : 5.71235270182292)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/WindrawDbDataContext/order/order_model" />
+      <nodes>
+        <classShapeMoniker Id="cc0880b1-1f10-46f2-898c-0a0f404df832" />
+        <classShapeMoniker Id="8cc759dc-3d4c-4615-a637-7740da51f868" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="592bf148-5c4e-45f6-b4a1-5f77913d3014" absoluteBounds="4.625, 7.375, 2, 13.885887044270833">
+      <DataClassMoniker Name="/WindrawDbDataContext/orderitem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d26c5eb7-e8e8-4992-8673-b26df75d6334" absoluteBounds="4.6400000000000006, 7.835, 1.9700000000000002, 13.325887044270832" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.875 : 7.375); (4.875 : 7.17470540364583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/WindrawDbDataContext/orderitem/orderitem_model" />
+      <nodes>
+        <classShapeMoniker Id="592bf148-5c4e-45f6-b4a1-5f77913d3014" />
+        <classShapeMoniker Id="8cc759dc-3d4c-4615-a637-7740da51f868" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.4958406575521); (4.625 : 10.4958406575521)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/WindrawDbDataContext/order/order_orderitem" />
+      <nodes>
+        <classShapeMoniker Id="cc0880b1-1f10-46f2-898c-0a0f404df832" />
+        <classShapeMoniker Id="592bf148-5c4e-45f6-b4a1-5f77913d3014" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="80c84e2a-2bd3-403c-b04f-3a9a30561545" absoluteBounds="12.25, 2.5, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/WindrawDbDataContext/color" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7a83ea32-b9b2-451e-a984-6f1a90189e8e" absoluteBounds="12.265, 2.96, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(13.23437625 : 6.38621256510417); (13.23437625 : 17.5969173470052); (6.625 : 17.5969173470052)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/WindrawDbDataContext/color/color_orderitem" />
+      <nodes>
+        <classShapeMoniker Id="80c84e2a-2bd3-403c-b04f-3a9a30561545" />
+        <classShapeMoniker Id="592bf148-5c4e-45f6-b4a1-5f77913d3014" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(12.7187475 : 6.38621256510417); (12.7187475 : 13.8704426497396); (6.625 : 13.8704426497396)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/WindrawDbDataContext/color/color_orderitem1" />
+      <nodes>
+        <classShapeMoniker Id="80c84e2a-2bd3-403c-b04f-3a9a30561545" />
+        <classShapeMoniker Id="592bf148-5c4e-45f6-b4a1-5f77913d3014" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="1f25ff56-d3ba-4f64-bfde-ec04d2e8f987" absoluteBounds="13.75, 8.375, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/WindrawDbDataContext/colorgroup" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ca972aa1-e429-46fa-b92d-310cecbce08e" absoluteBounds="13.765, 8.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(14 : 8.375); (14 : 6.38621256510417)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/WindrawDbDataContext/colorgroup/colorgroup_color" />
+      <nodes>
+        <classShapeMoniker Id="1f25ff56-d3ba-4f64-bfde-ec04d2e8f987" />
+        <classShapeMoniker Id="80c84e2a-2bd3-403c-b04f-3a9a30561545" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="ec22165b-9f28-45c8-85cc-6d321a05eb5e" absoluteBounds="1.375, 14.125, 2, 4.6554182942708326">
+      <DataClassMoniker Name="/WindrawDbDataContext/setting" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cf8e2c26-ffe2-4970-8805-71dc5a9dbb98" absoluteBounds="1.3900000000000001, 14.585, 1.9700000000000002, 4.095418294270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

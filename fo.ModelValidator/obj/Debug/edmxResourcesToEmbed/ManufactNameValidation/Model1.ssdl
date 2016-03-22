@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ecad_FOModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2006/04/edm/ssdl">
+  <EntityContainer Name="ecad_FOModelStoreContainer">
+    <EntitySet Name="docoper" EntityType="ecad_FOModel.Store.docoper" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="fo_manufact_names" EntityType="ecad_FOModel.Store.fo_manufact_names" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="orders" EntityType="ecad_FOModel.Store.orders" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_fo_manufact_names_docoper" Association="ecad_FOModel.Store.FK_fo_manufact_names_docoper">
+      <End Role="docoper" EntitySet="docoper" />
+      <End Role="fo_manufact_names" EntitySet="fo_manufact_names" />
+    </AssociationSet>
+    <AssociationSet Name="FK_orders_docoper" Association="ecad_FOModel.Store.FK_orders_docoper">
+      <End Role="docoper" EntitySet="docoper" />
+      <End Role="orders" EntitySet="orders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="docoper">
+    <Key>
+      <PropertyRef Name="iddocoper" />
+    </Key>
+    <Property Name="iddocoper" Type="int" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="64" />
+    <Property Name="prefix" Type="varchar" MaxLength="32" />
+    <Property Name="suffix" Type="varchar" MaxLength="32" />
+    <Property Name="numpos" Type="int" />
+    <Property Name="comment" Type="varchar" MaxLength="256" />
+    <Property Name="deleted" Type="datetime" />
+    <Property Name="docgroup" Type="varchar" MaxLength="64" />
+    <Property Name="iddocappearance" Type="int" />
+    <Property Name="agreenumpos" Type="int" />
+    <Property Name="agreeprefix" Type="varchar" MaxLength="32" />
+    <Property Name="agreesuffix" Type="varchar" MaxLength="32" />
+    <Property Name="storetyp" Type="smallint" />
+    <Property Name="guid" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="addint" Type="int" />
+    <Property Name="addstr" Type="varchar" MaxLength="256" />
+    <Property Name="indealerbase" Type="bit" />
+  </EntityType>
+  <EntityType Name="fo_manufact_names">
+    <Key>
+      <PropertyRef Name="fo_idmanufactname" />
+    </Key>
+    <Property Name="fo_idmanufactname" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="fo_manufactname" Type="varchar" MaxLength="128" />
+    <Property Name="fo_agreename" Type="varchar" MaxLength="128" />
+    <Property Name="fo_dtcre" Type="datetime" />
+    <Property Name="fo_notrelevant" Type="datetime" />
+    <Property Name="fo_iddocoper" Type="int" />
+  </EntityType>
+  <EntityType Name="orders">
+    <Key>
+      <PropertyRef Name="idorder" />
+    </Key>
+    <Property Name="idorder" Type="int" Nullable="false" />
+    <Property Name="idpeople" Type="int" />
+    <Property Name="name" Type="varchar" MaxLength="128" />
+    <Property Name="deleted" Type="datetime" />
+    <Property Name="logincre" Type="varchar" MaxLength="32" />
+    <Property Name="dtcre" Type="datetime" />
+    <Property Name="dtdoc" Type="datetime" />
+    <Property Name="idordersgroup" Type="int" />
+    <Property Name="sm" Type="numeric" Precision="15" Scale="4" />
+    <Property Name="idversion" Type="int" />
+    <Property Name="idcustomer" Type="int" />
+    <Property Name="iddocoper" Type="int" />
+    <Property Name="qupos" Type="int" />
+    <Property Name="idvalut" Type="int" />
+    <Property Name="agreename" Type="varchar" MaxLength="128" />
+    <Property Name="agreedate" Type="datetime" />
+    <Property Name="valutrate" Type="numeric" Precision="15" Scale="4" />
+    <Property Name="smbase" Type="numeric" Precision="15" Scale="4" />
+    <Property Name="iddestanation" Type="int" />
+    <Property Name="idseller" Type="int" />
+    <Property Name="address" Type="varchar" MaxLength="512" />
+    <Property Name="floor" Type="smallint" />
+    <Property Name="contact" Type="varchar" MaxLength="512" />
+    <Property Name="phone" Type="varchar" MaxLength="512" />
+    <Property Name="guid" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="addtext" Type="text" />
+    <Property Name="saved" Type="smallint" />
+    <Property Name="saved2" Type="smallint" />
+    <Property Name="idpeopleedit" Type="int" />
+    <Property Name="dtedit" Type="datetime" />
+    <Property Name="idaddress" Type="int" />
+    <Property Name="iddiscard" Type="int" />
+    <Property Name="idcustomer2" Type="int" />
+    <Property Name="idcustomer3" Type="int" />
+    <Property Name="idpeople2" Type="int" />
+    <Property Name="idpeople3" Type="int" />
+    <Property Name="idpeople4" Type="int" />
+    <Property Name="comment" Type="varchar(max)" />
+    <Property Name="addinfo" Type="varchar(max)" />
+    <Property Name="supplyinfo" Type="varchar(max)" />
+    <Property Name="productinfo" Type="varchar(max)" />
+    <Property Name="transportinfo" Type="varchar(max)" />
+    <Property Name="installinfo" Type="varchar(max)" />
+    <Property Name="sizeinfo" Type="varchar(max)" />
+    <Property Name="iddepartment" Type="int" />
+    <Property Name="idsourceinfo" Type="int" />
+    <Property Name="idadvertisingaction" Type="int" />
+    <Property Name="addint1" Type="int" />
+    <Property Name="addint2" Type="int" />
+    <Property Name="addint3" Type="int" />
+    <Property Name="addstr1" Type="varchar" MaxLength="256" />
+    <Property Name="addstr2" Type="varchar" MaxLength="256" />
+    <Property Name="addstr3" Type="varchar" MaxLength="256" />
+    <Property Name="adddt1" Type="datetime" />
+    <Property Name="adddt2" Type="datetime" />
+    <Property Name="adddt3" Type="datetime" />
+    <Property Name="addnum1" Type="numeric" Precision="15" Scale="4" />
+    <Property Name="addnum2" Type="numeric" Precision="15" Scale="4" />
+    <Property Name="addnum3" Type="numeric" Precision="15" Scale="4" />
+    <Property Name="addstr4" Type="varchar" MaxLength="256" />
+    <Property Name="addstr5" Type="varchar" MaxLength="256" />
+    <Property Name="idparent" Type="int" />
+    <Property Name="iddocstate" Type="int" />
+    <Property Name="idagree" Type="int" />
+  </EntityType>
+  <Association Name="FK_fo_manufact_names_docoper">
+    <End Role="docoper" Type="ecad_FOModel.Store.docoper" Multiplicity="0..1" />
+    <End Role="fo_manufact_names" Type="ecad_FOModel.Store.fo_manufact_names" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="docoper">
+        <PropertyRef Name="iddocoper" />
+      </Principal>
+      <Dependent Role="fo_manufact_names">
+        <PropertyRef Name="fo_iddocoper" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_orders_docoper">
+    <End Role="docoper" Type="ecad_FOModel.Store.docoper" Multiplicity="0..1" />
+    <End Role="orders" Type="ecad_FOModel.Store.orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="docoper">
+        <PropertyRef Name="iddocoper" />
+      </Principal>
+      <Dependent Role="orders">
+        <PropertyRef Name="iddocoper" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

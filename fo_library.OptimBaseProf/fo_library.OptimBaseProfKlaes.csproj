@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BE8E96CA-C198-4232-88F9-21321EED4D8C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>fo_library.OptimBaseProfKlaes</RootNamespace>
+    <AssemblyName>fo_library.OptimBaseProfKlaes</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Atechnology.Components">
+      <HintPath>..\fo_library.Export\bin\Release\Atechnology.Components.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.DBConnection">
+      <HintPath>..\fo_library.Export\bin\Release\Atechnology.DBConnection.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.Logging, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Atechnology.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.winDraw">
+      <HintPath>..\fo_library.Export\bin\Release\Atechnology.winDraw.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.winDraw.Model">
+      <HintPath>..\fo_library.Export\bin\Release\Atechnology.winDraw.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="DatabaseHelper, Version=2006.4.0.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DatabaseHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v8.2.Core, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.Charts.v8.2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v8.2, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.Data.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v8.2, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.Utils.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v8.2, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraBars.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v8.2, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraCharts.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v8.2.UI, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraCharts.v8.2.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v8.2, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraEditors.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v8.2, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraGrid.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v8.2, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraLayout.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v8.2, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraNavBar.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v8.2, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraScheduler.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v8.2.Core, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraScheduler.v8.2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v8.2.Extensions, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraScheduler.v8.2.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v8.2, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraTreeList.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v8.2, Version=8.2.2.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="fo_library.Export">
+      <HintPath>..\fo_library.Export\bin\Release\fo_library.Export.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack, Version=1.4.6.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.5.452, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="MAPI33, Version=1.0.1598.20045, Culture=neutral, PublicKeyToken=f89cf6e90aa66e23">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\MAPI33.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.BatchParser, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Microsoft.SqlServer.BatchParser.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Microsoft.SqlServer.ConnectionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Replication, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Microsoft.SqlServer.Replication.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Microsoft.SqlServer.Smo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.WmiEnum, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Microsoft.SqlServer.WmiEnum.dll</HintPath>
+    </Reference>
+    <Reference Include="MyClass, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\MyClass.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Prices, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Prices.dll</HintPath>
+    </Reference>
+    <Reference Include="QWhale.Common, Version=1.48.2869.29824, Culture=neutral, PublicKeyToken=da632fd1713dff10, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\QWhale.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="QWhale.Editor, Version=1.48.2869.29826, Culture=neutral, PublicKeyToken=da632fd1713dff10, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\QWhale.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="QWhale.Syntax, Version=1.48.2869.29825, Culture=neutral, PublicKeyToken=da632fd1713dff10, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\QWhale.Syntax.dll</HintPath>
+    </Reference>
+    <Reference Include="QWhale.Syntax.Parsers, Version=1.48.2869.29827, Culture=neutral, PublicKeyToken=da632fd1713dff10, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\QWhale.Syntax.Parsers.dll</HintPath>
+    </Reference>
+    <Reference Include="romaxlib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\romaxlib.dll</HintPath>
+    </Reference>
+    <Reference Include="SandDock, Version=2.4.0.1, Culture=neutral, PublicKeyToken=75b7ec17dd7c14c3, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\SandDock.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureMap, Version=2.5.1.0, Culture=neutral, PublicKeyToken=e60ad81abae3c223, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\StructureMap.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UserLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\UserLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Usermodules, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Usermodules.dll</HintPath>
+    </Reference>
+    <Reference Include="vjslib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\vjslib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="OptimBaseProf.cs" />
+    <Compile Include="OptimizationExporters\BeamStore.cs" />
+    <Compile Include="OptimizationExporters\CartCell.cs" />
+    <Compile Include="OptimizationExporters\IBeamStore.cs" />
+    <Compile Include="OptimizationExporters\SawBeam.cs" />
+    <Compile Include="OptimizationExporters\SawDocument.cs" />
+    <Compile Include="OptimizationExporters\SawWorkpiece.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SupplyExporters\SupplyExporter.cs" />
+    <Compile Include="SupplyExporters\SupplyExporterExcel.cs" />
+    <Compile Include="Tuple.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

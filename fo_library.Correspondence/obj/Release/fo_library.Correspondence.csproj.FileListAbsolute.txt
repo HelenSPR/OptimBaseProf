@@ -1,0 +1,41 @@
+D:\fo_library2\fo_library.Correspondence\bin\Release\fo_library.Correspondence.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\fo_library.Correspondence.pdb
+D:\fo_library2\fo_library.Correspondence\bin\Release\Atechnology.Components.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\fo_library.Model.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\Atechnology.DBConnection.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\Atechnology.ecad.Settings.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.XtraEditors.v8.2.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.Utils.v8.2.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.XtraGrid.v8.2.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.XtraBars.v8.2.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\SandDock.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\Atechnology.Logging.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\log4net.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.Data.v8.2.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.XtraLayout.v8.2.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\fo_library2\fo_library.Correspondence\bin\Release\fo_library.Model.pdb
+D:\fo_library2\fo_library.Correspondence\obj\Release\fo_library.Correspondence.csprojResolveAssemblyReference.cache
+D:\fo_library2\fo_library.Correspondence\obj\Release\fo_library.Correspondence.dll
+D:\fo_library2\fo_library.Correspondence\obj\Release\fo_library.Correspondence.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\fo_library.Correspondence.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\fo_library.Correspondence.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\fo_library.Model.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\Atechnology.DBConnection.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\Atechnology.ecad.Settings.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\fo_library.Model.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\obj\Release\fo_library.Correspondence.csprojResolveAssemblyReference.cache
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\obj\Release\fo_library.Correspondence.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\obj\Release\fo_library.Correspondence.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\log4net.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.XtraEditors.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.Utils.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.XtraGrid.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.XtraBars.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.Data.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Correspondence\bin\Release\DevExpress.XtraLayout.v8.2.dll

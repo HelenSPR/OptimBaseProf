@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ecad_FO" Class="WindrawFnDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=sqlwindraw.fabrikon.ru;Initial Catalog=ecad_FO;User ID=windraw" SettingsObjectName="fo_library.Model.Properties.Settings" SettingsPropertyName="ecad_FOConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.fo_get_root_department" Method="fo_get_root_department" IsComposable="true">
+    <Parameter Name="idpeople" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

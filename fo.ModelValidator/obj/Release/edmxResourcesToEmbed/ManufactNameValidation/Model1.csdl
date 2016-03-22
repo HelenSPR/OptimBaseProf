@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ecad_FOModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2006/04/edm">
+  <EntityContainer Name="ManufactNamesEntities">
+    <EntitySet Name="fo_manufact_names" EntityType="ecad_FOModel.fo_manufact_names" />
+    <EntitySet Name="orders" EntityType="ecad_FOModel.order" />
+    <EntitySet Name="docoper" EntityType="ecad_FOModel.docoper" />
+    <AssociationSet Name="FK_fo_manufact_names_docoper" Association="ecad_FOModel.FK_fo_manufact_names_docoper">
+      <End Role="docoper" EntitySet="docoper" />
+      <End Role="fo_manufact_names" EntitySet="fo_manufact_names" />
+    </AssociationSet>
+    <AssociationSet Name="FK_orders_docoper" Association="ecad_FOModel.FK_orders_docoper">
+      <End Role="docoper" EntitySet="docoper" />
+      <End Role="order" EntitySet="orders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="fo_manufact_names">
+    <Key>
+      <PropertyRef Name="fo_idmanufactname" />
+    </Key>
+    <Property Name="fo_idmanufactname" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fo_manufactname" Type="String" MaxLength="128" Unicode="false" FixedLength="false" />
+    <Property Name="fo_agreename" Type="String" MaxLength="128" Unicode="false" FixedLength="false" />
+    <Property Name="fo_dtcre" Type="DateTime" Precision="3" />
+    <Property Name="fo_notrelevant" Type="DateTime" Precision="3" />
+    <Property Name="fo_iddocoper" Type="Int32" />
+    <NavigationProperty Name="docoper" Relationship="ecad_FOModel.FK_fo_manufact_names_docoper" FromRole="fo_manufact_names" ToRole="docoper" />
+  </EntityType>
+  <EntityType Name="order">
+    <Key>
+      <PropertyRef Name="idorder" />
+    </Key>
+    <Property Name="idorder" Type="Int32" Nullable="false" />
+    <Property Name="idpeople" Type="Int32" />
+    <Property Name="name" Type="String" MaxLength="128" Unicode="false" FixedLength="false" />
+    <Property Name="deleted" Type="DateTime" Precision="3" />
+    <Property Name="logincre" Type="String" MaxLength="32" Unicode="false" FixedLength="false" />
+    <Property Name="dtcre" Type="DateTime" Precision="3" />
+    <Property Name="dtdoc" Type="DateTime" Precision="3" />
+    <Property Name="idordersgroup" Type="Int32" />
+    <Property Name="sm" Type="Decimal" Precision="15" Scale="4" />
+    <Property Name="idversion" Type="Int32" />
+    <Property Name="idcustomer" Type="Int32" />
+    <Property Name="iddocoper" Type="Int32" />
+    <Property Name="qupos" Type="Int32" />
+    <Property Name="idvalut" Type="Int32" />
+    <Property Name="agreename" Type="String" MaxLength="128" Unicode="false" FixedLength="false" />
+    <Property Name="agreedate" Type="DateTime" Precision="3" />
+    <Property Name="valutrate" Type="Decimal" Precision="15" Scale="4" />
+    <Property Name="smbase" Type="Decimal" Precision="15" Scale="4" />
+    <Property Name="iddestanation" Type="Int32" />
+    <Property Name="idseller" Type="Int32" />
+    <Property Name="address" Type="String" MaxLength="512" Unicode="false" FixedLength="false" />
+    <Property Name="floor" Type="Int16" />
+    <Property Name="contact" Type="String" MaxLength="512" Unicode="false" FixedLength="false" />
+    <Property Name="phone" Type="String" MaxLength="512" Unicode="false" FixedLength="false" />
+    <Property Name="guid" Type="Guid" Nullable="false" />
+    <Property Name="addtext" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="saved" Type="Int16" />
+    <Property Name="saved2" Type="Int16" />
+    <Property Name="idpeopleedit" Type="Int32" />
+    <Property Name="dtedit" Type="DateTime" Precision="3" />
+    <Property Name="idaddress" Type="Int32" />
+    <Property Name="iddiscard" Type="Int32" />
+    <Property Name="idcustomer2" Type="Int32" />
+    <Property Name="idcustomer3" Type="Int32" />
+    <Property Name="idpeople2" Type="Int32" />
+    <Property Name="idpeople3" Type="Int32" />
+    <Property Name="idpeople4" Type="Int32" />
+    <Property Name="comment" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="addinfo" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="supplyinfo" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="productinfo" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="transportinfo" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="installinfo" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="sizeinfo" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="iddepartment" Type="Int32" />
+    <Property Name="idsourceinfo" Type="Int32" />
+    <Property Name="idadvertisingaction" Type="Int32" />
+    <Property Name="addint1" Type="Int32" />
+    <Property Name="addint2" Type="Int32" />
+    <Property Name="addint3" Type="Int32" />
+    <Property Name="addstr1" Type="String" MaxLength="256" Unicode="false" FixedLength="false" />
+    <Property Name="addstr2" Type="String" MaxLength="256" Unicode="false" FixedLength="false" />
+    <Property Name="addstr3" Type="String" MaxLength="256" Unicode="false" FixedLength="false" />
+    <Property Name="adddt1" Type="DateTime" Precision="3" />
+    <Property Name="adddt2" Type="DateTime" Precision="3" />
+    <Property Name="adddt3" Type="DateTime" Precision="3" />
+    <Property Name="addnum1" Type="Decimal" Precision="15" Scale="4" />
+    <Property Name="addnum2" Type="Decimal" Precision="15" Scale="4" />
+    <Property Name="addnum3" Type="Decimal" Precision="15" Scale="4" />
+    <Property Name="addstr4" Type="String" MaxLength="256" Unicode="false" FixedLength="false" />
+    <Property Name="addstr5" Type="String" MaxLength="256" Unicode="false" FixedLength="false" />
+    <Property Name="idparent" Type="Int32" />
+    <Property Name="iddocstate" Type="Int32" />
+    <Property Name="idagree" Type="Int32" />
+    <NavigationProperty Name="docoper" Relationship="ecad_FOModel.FK_orders_docoper" FromRole="order" ToRole="docoper" />
+  </EntityType>
+  <EntityType Name="docoper">
+    <Key>
+      <PropertyRef Name="iddocoper" />
+    </Key>
+    <Property Type="Int32" Name="iddocoper" Nullable="false" />
+    <Property Type="String" Name="name" MaxLength="64" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="prefix" MaxLength="32" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="suffix" MaxLength="32" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="numpos" />
+    <Property Type="String" Name="comment" MaxLength="256" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="deleted" Precision="3" />
+    <Property Type="String" Name="docgroup" MaxLength="64" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="iddocappearance" />
+    <Property Type="Int32" Name="agreenumpos" />
+    <Property Type="String" Name="agreeprefix" MaxLength="32" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="agreesuffix" MaxLength="32" FixedLength="false" Unicode="false" />
+    <Property Type="Int16" Name="storetyp" />
+    <Property Type="Guid" Name="guid" Nullable="false" />
+    <Property Type="Int32" Name="addint" />
+    <Property Type="String" Name="addstr" MaxLength="256" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="indealerbase" />
+    <NavigationProperty Name="fo_manufact_names" Relationship="ecad_FOModel.FK_fo_manufact_names_docoper" FromRole="docoper" ToRole="fo_manufact_names" />
+    <NavigationProperty Name="orders" Relationship="ecad_FOModel.FK_orders_docoper" FromRole="docoper" ToRole="order" />
+  </EntityType>
+  <Association Name="FK_fo_manufact_names_docoper">
+    <End Type="ecad_FOModel.docoper" Role="docoper" Multiplicity="0..1" />
+    <End Type="ecad_FOModel.fo_manufact_names" Role="fo_manufact_names" Multiplicity="*" />
+  </Association>
+  <Association Name="FK_orders_docoper">
+    <End Type="ecad_FOModel.docoper" Role="docoper" Multiplicity="0..1" />
+    <End Type="ecad_FOModel.order" Role="order" Multiplicity="*" />
+  </Association>
+</Schema>

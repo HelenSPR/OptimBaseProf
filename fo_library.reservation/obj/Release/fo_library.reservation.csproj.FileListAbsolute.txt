@@ -1,0 +1,170 @@
+D:\fo_library2\fo_library.reservation\bin\Release\fo_library.reservation.dll
+D:\fo_library2\fo_library.reservation\bin\Release\fo_library.reservation.pdb
+D:\fo_library2\fo_library.reservation\bin\Release\Atechnology.DBConnection.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Atechnology.ecad.Settings.dll
+D:\fo_library2\fo_library.reservation\bin\Release\fo_library.Choosing.dll
+D:\fo_library2\fo_library.reservation\bin\Release\fo_library.Model.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Atechnology.Logging.dll
+D:\fo_library2\fo_library.reservation\bin\Release\log4net.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Atechnology.Components.dll
+D:\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+D:\fo_library2\fo_library.reservation\bin\Release\DevExpress.Utils.v8.2.dll
+D:\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraEditors.v8.2.dll
+D:\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraGrid.v8.2.dll
+D:\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraBars.v8.2.dll
+D:\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+D:\fo_library2\fo_library.reservation\bin\Release\DevExpress.Data.v8.2.dll
+D:\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll
+D:\fo_library2\fo_library.reservation\bin\Release\SandDock.dll
+D:\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraLayout.v8.2.dll
+D:\fo_library2\fo_library.reservation\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\fo_library2\fo_library.reservation\bin\Release\fo_library.Choosing.pdb
+D:\fo_library2\fo_library.reservation\bin\Release\fo_library.Model.pdb
+D:\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.csprojResolveAssemblyReference.cache
+D:\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.dll
+D:\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.pdb
+D:\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.ReservationForm.resources
+D:\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.csproj.GenerateResource.Cache
+D:\fo_library2\fo_library.reservation\bin\Release\Atechnology.ecad.Document.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Atechnology.squareOPT.Math.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Atechnology.ecad.Dictionary.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Atechnology.winDraw.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Atechnology.winDraw.Model.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Atechnology.lineOPT.Math.dll
+D:\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraScheduler.v8.2.dll
+D:\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraCharts.v8.2.UI.dll
+D:\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraCharts.v8.2.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Atechnology.FrontalCAE.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Atechnology.ecad.Calc.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Atechnology.ecad.Report.dll
+D:\fo_library2\fo_library.reservation\bin\Release\vjslib.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Atechnology.DXF.dll
+D:\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraScheduler.v8.2.Core.dll
+D:\fo_library2\fo_library.reservation\bin\Release\DevExpress.Charts.v8.2.Core.dll
+D:\fo_library2\fo_library.reservation\bin\Release\CsGL.dll
+D:\fo_library2\fo_library.reservation\bin\Release\QWhale.Editor.dll
+D:\fo_library2\fo_library.reservation\bin\Release\QWhale.Syntax.Parsers.dll
+D:\fo_library2\fo_library.reservation\bin\Release\QWhale.Syntax.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Report.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Report.Win.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Report.Design.dll
+D:\fo_library2\fo_library.reservation\bin\Release\QWhale.Common.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Base.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Controls.Win.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Controls.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Editor.dll
+D:\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Report.Helper.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.reservation.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.reservation.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Choosing.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Model.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Validation.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.Logging.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\log4net.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.Components.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.squareOPT.Math.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraGrid.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraEditors.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraLayout.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\DevExpress.Utils.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.ecad.Dictionary.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.winDraw.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.winDraw.Model.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.lineOPT.Math.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\SandDock.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraScheduler.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraCharts.v8.2.UI.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraCharts.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\DevExpress.Data.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.FrontalCAE.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.ecad.Calc.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.ecad.Report.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraBars.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Correspondence.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\vjslib.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.DXF.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\DevExpress.XtraScheduler.v8.2.Core.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\DevExpress.Charts.v8.2.Core.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\CsGL.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\QWhale.Editor.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\QWhale.Syntax.Parsers.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\QWhale.Syntax.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Report.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Report.Win.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Report.Design.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\QWhale.Common.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Base.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Controls.Win.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Controls.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Editor.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Stimulsoft.Report.Helper.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Choosing.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Model.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Validation.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Correspondence.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.csprojResolveAssemblyReference.cache
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.ReservationForm.resources
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.csproj.GenerateResource.Cache
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.pdb
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.reservation.dll
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.reservation.pdb
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Choosing.dll
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Model.dll
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Validation.dll
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.Components.dll
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.winDraw.dll
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.winDraw.Model.dll
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\Atechnology.ecad.Calc.dll
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Correspondence.dll
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Choosing.pdb
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Model.pdb
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Validation.pdb
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\bin\Release\fo_library.Correspondence.pdb
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.csprojResolveAssemblyReference.cache
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.ReservationForm.resources
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.csproj.GenerateResource.Cache
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.dll
+X:\! FO_LIBRARY 2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.pdb
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\bin\Release\fo_library.reservation.dll
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\bin\Release\fo_library.reservation.pdb
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\bin\Release\fo_library.Choosing.dll
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\bin\Release\fo_library.Model.dll
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\bin\Release\fo_library.Validation.dll
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\bin\Release\Atechnology.Components.dll
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\bin\Release\Atechnology.winDraw.dll
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\bin\Release\Atechnology.winDraw.Model.dll
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\bin\Release\Atechnology.ecad.Calc.dll
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\bin\Release\fo_library.Correspondence.dll
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\bin\Release\fo_library.Choosing.pdb
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\bin\Release\fo_library.Model.pdb
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\bin\Release\fo_library.Validation.pdb
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\bin\Release\fo_library.Correspondence.pdb
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.csprojResolveAssemblyReference.cache
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.ReservationForm.resources
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.csproj.GenerateResource.Cache
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.dll
+d:\Disk-Yandex\Projects2\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.pdb
+Z:\Projects\fo_library2\fo_library.reservation\bin\Release\fo_library.reservation.dll
+Z:\Projects\fo_library2\fo_library.reservation\bin\Release\fo_library.reservation.pdb
+Z:\Projects\fo_library2\fo_library.reservation\bin\Release\fo_library.Choosing.dll
+Z:\Projects\fo_library2\fo_library.reservation\bin\Release\fo_library.Model.dll
+Z:\Projects\fo_library2\fo_library.reservation\bin\Release\fo_library.Validation.dll
+Z:\Projects\fo_library2\fo_library.reservation\bin\Release\Atechnology.Components.dll
+Z:\Projects\fo_library2\fo_library.reservation\bin\Release\Atechnology.winDraw.dll
+Z:\Projects\fo_library2\fo_library.reservation\bin\Release\Atechnology.winDraw.Model.dll
+Z:\Projects\fo_library2\fo_library.reservation\bin\Release\Atechnology.ecad.Calc.dll
+Z:\Projects\fo_library2\fo_library.reservation\bin\Release\fo_library.Correspondence.dll
+Z:\Projects\fo_library2\fo_library.reservation\bin\Release\fo_library.Choosing.pdb
+Z:\Projects\fo_library2\fo_library.reservation\bin\Release\fo_library.Model.pdb
+Z:\Projects\fo_library2\fo_library.reservation\bin\Release\fo_library.Validation.pdb
+Z:\Projects\fo_library2\fo_library.reservation\bin\Release\fo_library.Correspondence.pdb
+Z:\Projects\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.csprojResolveAssemblyReference.cache
+Z:\Projects\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.ReservationForm.resources
+Z:\Projects\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.csproj.GenerateResource.Cache
+Z:\Projects\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.dll
+Z:\Projects\fo_library2\fo_library.reservation\obj\Release\fo_library.reservation.pdb

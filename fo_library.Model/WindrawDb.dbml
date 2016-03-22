@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ecad_FO" Class="WindrawDbDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=sqlwindraw.fabrikon.ru;Initial Catalog=ecad_FO;User ID=windraw" SettingsObjectName="fo_library.Model.Properties.Settings" SettingsPropertyName="ecad_FOConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.orders" Member="orders">
+    <Type Name="order">
+      <Column Name="idorder" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="idpeople" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="name" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="deleted" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="logincre" Type="System.String" DbType="VarChar(32)" CanBeNull="true" />
+      <Column Name="dtcre" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="dtdoc" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="idordersgroup" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="sm" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="idversion" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idcustomer" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="iddocoper" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="qupos" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idvalut" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="agreename" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="agreedate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="valutrate" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="smbase" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="iddestanation" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idseller" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="VarChar(512)" CanBeNull="true" />
+      <Column Name="floor" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="contact" Type="System.String" DbType="VarChar(512)" CanBeNull="true" />
+      <Column Name="phone" Type="System.String" DbType="VarChar(512)" CanBeNull="true" />
+      <Column Name="guid" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="addtext" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="saved" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="saved2" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="idpeopleedit" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="dtedit" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="idaddress" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="iddiscard" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idcustomer2" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idcustomer3" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idpeople2" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idpeople3" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idpeople4" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="comment" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="addinfo" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="supplyinfo" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="productinfo" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="transportinfo" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="installinfo" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="sizeinfo" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="iddepartment" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idsourceinfo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idadvertisingaction" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="addint1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="addint2" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="addint3" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="addstr1" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="addstr2" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="addstr3" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="adddt1" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="adddt2" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="adddt3" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="addnum1" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="addnum2" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="addnum3" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="addstr4" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="addstr5" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="idparent" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="iddocstate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idagree" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="order_ordersign" Member="ordersigns" ThisKey="idorder" OtherKey="idorder" Type="ordersign" />
+      <Association Name="order_model" Member="models" ThisKey="idorder" OtherKey="idorder" Type="model" />
+      <Association Name="order_orderitem" Member="orderitems" ThisKey="idorder" OtherKey="idorder" Type="orderitem" />
+      <Association Name="people_order" Member="people" ThisKey="idpeople" OtherKey="idpeople" Type="people" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ordersign" Member="ordersigns">
+    <Type Name="ordersign">
+      <Column Name="idordersign" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="idsign" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idorder" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idsignvalue" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="deleted" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="dtcreate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="comment" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="idpeople" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="strvalue" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="intvalue" Type="System.Decimal" DbType="Decimal(15,5)" CanBeNull="true" />
+      <Column Name="idorderitem" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="dtvalue" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="dtvalue2" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="order_ordersign" Member="order" ThisKey="idorder" OtherKey="idorder" Type="order" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="sign_ordersign" Member="sign" ThisKey="idsign" OtherKey="idsign" Type="sign" IsForeignKey="true" />
+      <Association Name="signvalue_ordersign" Member="signvalue" ThisKey="idsignvalue" OtherKey="idsignvalue" Type="signvalue" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="people_ordersign" Member="people" ThisKey="idpeople" OtherKey="idpeople" Type="people" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.sign" Member="signs">
+    <Type Name="sign">
+      <Column Name="idsign" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="deleted" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="comment" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="idsigngroup" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="guid" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Association Name="sign_ordersign" Member="ordersigns" ThisKey="idsign" OtherKey="idsign" Type="ordersign" />
+      <Association Name="sign_signvalue" Member="signvalues" ThisKey="idsign" OtherKey="idsign" Type="signvalue" />
+    </Type>
+  </Table>
+  <Table Name="dbo.signvalue" Member="signvalues">
+    <Type Name="signvalue">
+      <Column Name="idsignvalue" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="idsign" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="intvalue" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="strvalue" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="deleted" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="comment" Type="System.String" DbType="VarChar(512)" CanBeNull="true" />
+      <Column Name="guid" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Association Name="signvalue_ordersign" Member="ordersigns" ThisKey="idsignvalue" OtherKey="idsignvalue" Type="ordersign" />
+      <Association Name="sign_signvalue" Member="sign" ThisKey="idsign" OtherKey="idsign" Type="sign" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.people" Member="peoples">
+    <Type Name="people">
+      <Column Name="idpeople" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="lastname" Type="System.String" DbType="VarChar(32)" CanBeNull="true" />
+      <Column Name="middlename" Type="System.String" DbType="VarChar(32)" CanBeNull="true" />
+      <Column Name="passport" Type="System.String" DbType="VarChar(32)" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="phone" Type="System.String" DbType="VarChar(64)" CanBeNull="true" />
+      <Column Name="peoplegroup" Type="System.String" DbType="VarChar(64)" CanBeNull="true" />
+      <Column Name="comment" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="deleted" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="userpassword" Type="System.String" DbType="VarChar(32)" CanBeNull="true" />
+      <Column Name="isadmin" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="oneconnect" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="alienorder" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="userlogin" Type="System.String" DbType="VarChar(32)" CanBeNull="true" />
+      <Column Name="idpeoplepost" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="addstr" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="addinfo" Type="System.String" DbType="VarChar(512)" CanBeNull="true" />
+      <Column Name="iddepartment" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="indealerbase" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="guid" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="email" Type="System.String" DbType="VarChar(512)" CanBeNull="true" />
+      <Column Name="barcode" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="iscrypt" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="fo_istools" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="fo_ismaster" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="fo_idmaster" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="fo_idsignvaluerating" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="tabno" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Association Name="people_order" Member="orders" ThisKey="idpeople" OtherKey="idpeople" Type="order" />
+      <Association Name="people_ordersign" Member="ordersigns" ThisKey="idpeople" OtherKey="idpeople" Type="ordersign" />
+    </Type>
+  </Table>
+  <Table Name="dbo.model" Member="models">
+    <Type Name="model">
+      <Column Name="idmodel" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="idorder" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idorderitem" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="name" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="comment" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="deleted" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="classnative" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="class" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="typ" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="dtcre" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="idconstruction" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="order_model" Member="order" ThisKey="idorder" OtherKey="idorder" Type="order" IsForeignKey="true" />
+      <Association Name="orderitem_model" Member="orderitem" ThisKey="idorderitem" OtherKey="idorderitem" Type="orderitem" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.orderitem" Member="orderitems">
+    <Type Name="orderitem">
+      <Column Name="idorderitem" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="idorder" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idmodel" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="qu" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="thick" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="height" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="width" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="price2" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="sm" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="sm2" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="deleted" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="part" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="idgood" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="numpos" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="typ" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="idversion" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="qustore" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="smbase" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="pricebase" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="sqr" Type="System.Decimal" DbType="Decimal(15,2)" CanBeNull="true" />
+      <Column Name="isglass" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="ismoskit" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="isaddgood" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="winue" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="isstandart" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="winue2" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="winue3" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="idpeopleedit" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="dtedit" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="constrnum" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idprofsys" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idfurnsys" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idconstructiontype" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idcolorin" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idcolorout" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="quready" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="isready" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="radius1" Type="System.Decimal" DbType="Decimal(15,2)" CanBeNull="true" />
+      <Column Name="ang1" Type="System.Decimal" DbType="Decimal(15,2)" CanBeNull="true" />
+      <Column Name="ang2" Type="System.Decimal" DbType="Decimal(15,2)" CanBeNull="true" />
+      <Column Name="radius2" Type="System.Decimal" DbType="Decimal(15,2)" CanBeNull="true" />
+      <Column Name="weight" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="quinmanufact" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="smbase2" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="smbase3" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="smbase4" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="parentid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="comment" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="idproductiontype" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idorderitemold" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="addnum1" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="addnum2" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="addnum3" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="addnum4" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="addnum5" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="addnum6" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="addnum7" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="addnum8" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="addstr" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="addstr2" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="addint" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="addint2" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idgoodkitdetail" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="hide" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="idpower" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idgoodkit" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="orderitem_model" Member="models" ThisKey="idorderitem" OtherKey="idorderitem" Type="model" />
+      <Association Name="order_orderitem" Member="order" ThisKey="idorder" OtherKey="idorder" Type="order" IsForeignKey="true" />
+      <Association Name="color_orderitem" Member="color" ThisKey="idcolorin" OtherKey="idcolor" Type="color" IsForeignKey="true" />
+      <Association Name="color_orderitem1" Member="color1" ThisKey="idcolorout" OtherKey="idcolor" Type="color" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.color" Member="colors">
+    <Type Name="color">
+      <Column Name="idcolor" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(64)" CanBeNull="true" />
+      <Column Name="comment" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="deleted" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="color" Member="color1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="colorgroup" Type="System.String" DbType="VarChar(64)" CanBeNull="true" />
+      <Column Name="windraw" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="shortname" Type="System.String" DbType="VarChar(32)" CanBeNull="true" />
+      <Column Name="idcolorgroup" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="guid" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="numvalue1" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="numvalue2" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="numvalue3" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="numvalue4" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="numvalue5" Type="System.Decimal" DbType="Decimal(15,4)" CanBeNull="true" />
+      <Column Name="numpos" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="color_orderitem" Member="orderitems" ThisKey="idcolor" OtherKey="idcolorin" Type="orderitem" />
+      <Association Name="color_orderitem1" Member="orderitems1" ThisKey="idcolor" OtherKey="idcolorout" Type="orderitem" />
+      <Association Name="colorgroup_color" Member="colorgroup1" ThisKey="idcolorgroup" OtherKey="idcolorgroup" Type="colorgroup" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.colorgroup" Member="colorgroups">
+    <Type Name="colorgroup">
+      <Column Name="idcolorgroup" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="comment" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="deleted" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="parentid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="isactive" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="guid" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="numpos" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="colorgroup_color" Member="colors" ThisKey="idcolorgroup" OtherKey="idcolorgroup" Type="color" />
+    </Type>
+  </Table>
+  <Table Name="dbo.setting" Member="settings">
+    <Type Name="setting">
+      <Column Name="idsetting" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="intvalue" Type="System.Decimal" DbType="Decimal(15,6)" CanBeNull="true" />
+      <Column Name="comment" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="deleted" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="txtvalue" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="blbvalue" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="groupname" Type="System.String" DbType="VarChar(64)" CanBeNull="true" />
+      <Column Name="idsettinggroup" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="namecrypt" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="dtvalue" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="guid" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="addorder" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="addmodel" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="strvalue" Type="System.String" DbType="VarChar(256)" CanBeNull="true" />
+      <Column Name="intvalue2" Type="System.Decimal" DbType="Decimal(15,6)" CanBeNull="true" />
+      <Column Name="strvaluecrypt" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="txtvaluecrypt" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="commentcrypt" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="customtable" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="urn:schemas-microsoft-com:windows:storage:mapping:CS">
+  <EntityContainerMapping StorageEntityContainer="ecad_FOModelStoreContainer" CdmEntityContainer="ManufactNamesEntities">
+    <EntitySetMapping Name="fo_manufact_names">
+      <EntityTypeMapping TypeName="ecad_FOModel.fo_manufact_names">
+        <MappingFragment StoreEntitySet="fo_manufact_names">
+          <ScalarProperty Name="fo_idmanufactname" ColumnName="fo_idmanufactname" />
+          <ScalarProperty Name="fo_manufactname" ColumnName="fo_manufactname" />
+          <ScalarProperty Name="fo_agreename" ColumnName="fo_agreename" />
+          <ScalarProperty Name="fo_dtcre" ColumnName="fo_dtcre" />
+          <ScalarProperty Name="fo_notrelevant" ColumnName="fo_notrelevant" />
+          <ScalarProperty Name="fo_iddocoper" ColumnName="fo_iddocoper" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="orders">
+      <EntityTypeMapping TypeName="ecad_FOModel.order">
+        <MappingFragment StoreEntitySet="orders">
+          <ScalarProperty Name="idorder" ColumnName="idorder" />
+          <ScalarProperty Name="idpeople" ColumnName="idpeople" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="deleted" ColumnName="deleted" />
+          <ScalarProperty Name="logincre" ColumnName="logincre" />
+          <ScalarProperty Name="dtcre" ColumnName="dtcre" />
+          <ScalarProperty Name="dtdoc" ColumnName="dtdoc" />
+          <ScalarProperty Name="idordersgroup" ColumnName="idordersgroup" />
+          <ScalarProperty Name="sm" ColumnName="sm" />
+          <ScalarProperty Name="idversion" ColumnName="idversion" />
+          <ScalarProperty Name="idcustomer" ColumnName="idcustomer" />
+          <ScalarProperty Name="iddocoper" ColumnName="iddocoper" />
+          <ScalarProperty Name="qupos" ColumnName="qupos" />
+          <ScalarProperty Name="idvalut" ColumnName="idvalut" />
+          <ScalarProperty Name="agreename" ColumnName="agreename" />
+          <ScalarProperty Name="agreedate" ColumnName="agreedate" />
+          <ScalarProperty Name="valutrate" ColumnName="valutrate" />
+          <ScalarProperty Name="smbase" ColumnName="smbase" />
+          <ScalarProperty Name="iddestanation" ColumnName="iddestanation" />
+          <ScalarProperty Name="idseller" ColumnName="idseller" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="floor" ColumnName="floor" />
+          <ScalarProperty Name="contact" ColumnName="contact" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="guid" ColumnName="guid" />
+          <ScalarProperty Name="addtext" ColumnName="addtext" />
+          <ScalarProperty Name="saved" ColumnName="saved" />
+          <ScalarProperty Name="saved2" ColumnName="saved2" />
+          <ScalarProperty Name="idpeopleedit" ColumnName="idpeopleedit" />
+          <ScalarProperty Name="dtedit" ColumnName="dtedit" />
+          <ScalarProperty Name="idaddress" ColumnName="idaddress" />
+          <ScalarProperty Name="iddiscard" ColumnName="iddiscard" />
+          <ScalarProperty Name="idcustomer2" ColumnName="idcustomer2" />
+          <ScalarProperty Name="idcustomer3" ColumnName="idcustomer3" />
+          <ScalarProperty Name="idpeople2" ColumnName="idpeople2" />
+          <ScalarProperty Name="idpeople3" ColumnName="idpeople3" />
+          <ScalarProperty Name="idpeople4" ColumnName="idpeople4" />
+          <ScalarProperty Name="comment" ColumnName="comment" />
+          <ScalarProperty Name="addinfo" ColumnName="addinfo" />
+          <ScalarProperty Name="supplyinfo" ColumnName="supplyinfo" />
+          <ScalarProperty Name="productinfo" ColumnName="productinfo" />
+          <ScalarProperty Name="transportinfo" ColumnName="transportinfo" />
+          <ScalarProperty Name="installinfo" ColumnName="installinfo" />
+          <ScalarProperty Name="sizeinfo" ColumnName="sizeinfo" />
+          <ScalarProperty Name="iddepartment" ColumnName="iddepartment" />
+          <ScalarProperty Name="idsourceinfo" ColumnName="idsourceinfo" />
+          <ScalarProperty Name="idadvertisingaction" ColumnName="idadvertisingaction" />
+          <ScalarProperty Name="addint1" ColumnName="addint1" />
+          <ScalarProperty Name="addint2" ColumnName="addint2" />
+          <ScalarProperty Name="addint3" ColumnName="addint3" />
+          <ScalarProperty Name="addstr1" ColumnName="addstr1" />
+          <ScalarProperty Name="addstr2" ColumnName="addstr2" />
+          <ScalarProperty Name="addstr3" ColumnName="addstr3" />
+          <ScalarProperty Name="adddt1" ColumnName="adddt1" />
+          <ScalarProperty Name="adddt2" ColumnName="adddt2" />
+          <ScalarProperty Name="adddt3" ColumnName="adddt3" />
+          <ScalarProperty Name="addnum1" ColumnName="addnum1" />
+          <ScalarProperty Name="addnum2" ColumnName="addnum2" />
+          <ScalarProperty Name="addnum3" ColumnName="addnum3" />
+          <ScalarProperty Name="addstr4" ColumnName="addstr4" />
+          <ScalarProperty Name="addstr5" ColumnName="addstr5" />
+          <ScalarProperty Name="idparent" ColumnName="idparent" />
+          <ScalarProperty Name="iddocstate" ColumnName="iddocstate" />
+          <ScalarProperty Name="idagree" ColumnName="idagree" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="docoper">
+      <EntityTypeMapping TypeName="ecad_FOModel.docoper">
+        <MappingFragment StoreEntitySet="docoper">
+          <ScalarProperty Name="indealerbase" ColumnName="indealerbase" />
+          <ScalarProperty Name="addstr" ColumnName="addstr" />
+          <ScalarProperty Name="addint" ColumnName="addint" />
+          <ScalarProperty Name="guid" ColumnName="guid" />
+          <ScalarProperty Name="storetyp" ColumnName="storetyp" />
+          <ScalarProperty Name="agreesuffix" ColumnName="agreesuffix" />
+          <ScalarProperty Name="agreeprefix" ColumnName="agreeprefix" />
+          <ScalarProperty Name="agreenumpos" ColumnName="agreenumpos" />
+          <ScalarProperty Name="iddocappearance" ColumnName="iddocappearance" />
+          <ScalarProperty Name="docgroup" ColumnName="docgroup" />
+          <ScalarProperty Name="deleted" ColumnName="deleted" />
+          <ScalarProperty Name="comment" ColumnName="comment" />
+          <ScalarProperty Name="numpos" ColumnName="numpos" />
+          <ScalarProperty Name="suffix" ColumnName="suffix" />
+          <ScalarProperty Name="prefix" ColumnName="prefix" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="iddocoper" ColumnName="iddocoper" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="FK_fo_manufact_names_docoper" TypeName="ecad_FOModel.FK_fo_manufact_names_docoper" StoreEntitySet="fo_manufact_names">
+      <EndProperty Name="fo_manufact_names">
+        <ScalarProperty Name="fo_idmanufactname" ColumnName="fo_idmanufactname" />
+      </EndProperty>
+      <EndProperty Name="docoper">
+        <ScalarProperty Name="iddocoper" ColumnName="fo_iddocoper" />
+      </EndProperty>
+      <Condition ColumnName="fo_iddocoper" IsNull="false" />
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

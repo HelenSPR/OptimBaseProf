@@ -1,0 +1,44 @@
+C:\Users\n.fedorov\Documents\Visual Studio 2012\Projects\fo_library3.5\fo_library.Model\obj\Debug\fo_library.Model.csprojResolveAssemblyReference.cache
+C:\Users\n.fedorov\Documents\Visual Studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\fo_library.Model.dll.config
+C:\Users\n.fedorov\Documents\Visual Studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\fo_library.Model.dll
+C:\Users\n.fedorov\Documents\Visual Studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\fo_library.Model.pdb
+C:\Users\n.fedorov\Documents\Visual Studio 2012\Projects\fo_library3.5\fo_library.Model\obj\Debug\fo_library.Model.dll
+C:\Users\n.fedorov\Documents\Visual Studio 2012\Projects\fo_library3.5\fo_library.Model\obj\Debug\fo_library.Model.pdb
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\Atechnology.DBConnection.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\Atechnology.Logging.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\log4net.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\Atechnology.ecad.Settings.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\Atechnology.Components.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\DevExpress.Utils.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\DevExpress.XtraGrid.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\DevExpress.XtraBars.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\DevExpress.Data.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\DevExpress.XtraVerticalGrid.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\SandDock.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\DevExpress.XtraLayout.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library3.5\fo_library.Model\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\fo_library2\fo_library.Model\bin\Debug\fo_library.Model.dll.config
+D:\fo_library2\fo_library.Model\bin\Debug\fo_library.Model.dll
+D:\fo_library2\fo_library.Model\bin\Debug\fo_library.Model.pdb
+D:\fo_library2\fo_library.Model\bin\Debug\Atechnology.DBConnection.dll
+D:\fo_library2\fo_library.Model\bin\Debug\Atechnology.ecad.Settings.dll
+D:\fo_library2\fo_library.Model\bin\Debug\Atechnology.Logging.dll
+D:\fo_library2\fo_library.Model\bin\Debug\log4net.dll
+D:\fo_library2\fo_library.Model\bin\Debug\Atechnology.Components.dll
+D:\fo_library2\fo_library.Model\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Debug\DevExpress.Utils.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Debug\DevExpress.XtraGrid.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Debug\DevExpress.XtraBars.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Debug\DevExpress.Data.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Debug\DevExpress.XtraVerticalGrid.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Debug\SandDock.dll
+D:\fo_library2\fo_library.Model\bin\Debug\DevExpress.XtraLayout.v8.2.dll
+D:\fo_library2\fo_library.Model\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\fo_library2\fo_library.Model\obj\Debug\fo_library.Model.csprojResolveAssemblyReference.cache
+D:\fo_library2\fo_library.Model\obj\Debug\fo_library.Model.dll
+D:\fo_library2\fo_library.Model\obj\Debug\fo_library.Model.pdb

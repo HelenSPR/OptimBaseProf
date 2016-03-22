@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{540D1915-0B3D-46C0-9D8B-81EF584A6434}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>fo_library.Export</RootNamespace>
+    <AssemblyName>fo_library.Export</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Atechnology.Components, Version=1.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\windraw_test\Atechnology.Components.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.DBConnection, Version=1.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\windraw_test\Atechnology.DBConnection.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.winDraw, Version=1.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\windraw_test\Atechnology.winDraw.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.winDraw.Model, Version=1.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\windraw_test\Atechnology.winDraw.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="DatabaseHelper">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DatabaseHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v8.2.Core">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.Charts.v8.2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.Data.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.Utils.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraBars.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraCharts.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v8.2.UI">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraCharts.v8.2.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraEditors.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraGrid.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraLayout.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraNavBar.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraScheduler.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v8.2.Core">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraScheduler.v8.2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v8.2.Extensions">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraScheduler.v8.2.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraTreeList.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v8.2">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="fo_library, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\windraw_test\fo_library.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\fo_library.OptimBaseProf\bin\Release\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Contractor.cs" />
+    <Compile Include="fo_export.cs" />
+    <Compile Include="OptimizationExporters\BeamStore.cs" />
+    <Compile Include="OptimizationExporters\SawBeam.cs" />
+    <Compile Include="OptimizationExporters\CartCell.cs" />
+    <Compile Include="OptimizationExporters\SawDocument.cs" />
+    <Compile Include="OptimizationExporters\IBeamStore.cs" />
+    <Compile Include="OptimizationExporters\SawWorkpiece.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SupplyExporters\CrystalitSupplyExporter.cs" />
+    <Compile Include="SupplyExporters\StisGlassPackNonStandartExporter.cs" />
+    <Compile Include="SupplyExporters\StisGlasspackNonStandartSketchExporter.cs" />
+    <Compile Include="SupplyExporters\StisGlassPackStandartExporter.cs" />
+    <Compile Include="SupplyExporters\SupplyExporter.cs" />
+    <Compile Include="SupplyExporters\SupplyExporterExcel.cs" />
+    <Compile Include="SupplyExporters\TbmSupplyExporter.cs" />
+    <Compile Include="SupplyExporters\TsvetoslavSupplyExporter.cs" />
+    <Compile Include="Tuple.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StisTemp.xls" />
+    <None Include="Resources\StisTempNonStand.xls" />
+    <None Include="Resources\StisTempNonStandScketch.xls" />
+    <None Include="Resources\SupplyWindowsillTemplate.xls" />
+    <None Include="Resources\TsvetoslavWindowsillSupplyTemplate.xls" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

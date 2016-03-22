@@ -1,0 +1,60 @@
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\SettingTestConsoleApplication.exe.config
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\SettingTestConsoleApplication.exe
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\SettingTestConsoleApplication.pdb
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\Atechnology.Components.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\Atechnology.DBConnection.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\Atechnology.ecad.Calc.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\Atechnology.winDraw.Model.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Correspondence.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Model.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\Atechnology.ecad.Settings.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraEditors.v8.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.Utils.v8.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraGrid.v8.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraBars.v8.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\SandDock.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\Atechnology.Logging.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\log4net.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.Data.v8.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraLayout.v8.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\Atechnology.lineOPT.Math.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraTreeList.v10.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraGrid.v10.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraEditors.v10.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.Utils.v10.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\QWhale.Editor.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraBars.v10.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\QWhale.Syntax.Parsers.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.Data.v10.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\QWhale.Syntax.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\Storage.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraLayout.v10.2.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\QWhale.Common.dll
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Correspondence.pdb
+D:\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Model.pdb
+D:\fo_library2\SettingTestConsoleApplication\obj\Release\SettingTestConsoleApplication.csprojResolveAssemblyReference.cache
+D:\fo_library2\SettingTestConsoleApplication\obj\Release\SettingTestConsoleApplication.exe
+D:\fo_library2\SettingTestConsoleApplication\obj\Release\SettingTestConsoleApplication.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\SettingTestConsoleApplication.exe.config
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\SettingTestConsoleApplication.exe
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\SettingTestConsoleApplication.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Correspondence.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Model.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\Atechnology.ecad.Settings.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Correspondence.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Model.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\obj\Release\SettingTestConsoleApplication.csprojResolveAssemblyReference.cache
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\obj\Release\SettingTestConsoleApplication.exe
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\obj\Release\SettingTestConsoleApplication.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraEditors.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.Utils.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraGrid.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraBars.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.Data.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraLayout.v8.2.dll

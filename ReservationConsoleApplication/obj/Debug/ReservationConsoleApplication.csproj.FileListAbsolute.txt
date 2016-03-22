@@ -1,0 +1,91 @@
+c:\users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\ReservationConsoleApplication.exe.config
+c:\users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\ReservationConsoleApplication.exe
+c:\users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\ReservationConsoleApplication.pdb
+c:\users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\fo_library.reservation.dll
+c:\users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\fo_library.reservation.pdb
+c:\users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\obj\Debug\ReservationConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\obj\Debug\ReservationConsoleApplication.exe
+c:\users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\obj\Debug\ReservationConsoleApplication.pdb
+c:\users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\fo_library.Model.dll
+c:\users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\fo_library.Model.pdb
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\Atechnology.DBConnection.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\Atechnology.Logging.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\log4net.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\Atechnology.ecad.Settings.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\Atechnology.Components.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\DevExpress.Utils.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\DevExpress.XtraGrid.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\DevExpress.XtraBars.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\DevExpress.Data.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\DevExpress.XtraVerticalGrid.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\SandDock.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\DevExpress.XtraLayout.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\fo_library.Choosing.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\ReservationConsoleApplication\bin\Debug\fo_library.Choosing.pdb
+C:\Users\n.fedorov\Documents\Visual Studio 2012\Projects\fo_library2\ReservationConsoleApplication\bin\Debug\ReservationConsoleApplication.exe.config
+C:\Users\n.fedorov\Documents\Visual Studio 2012\Projects\fo_library2\ReservationConsoleApplication\obj\Debug\ReservationConsoleApplication.exe
+C:\Users\n.fedorov\Documents\Visual Studio 2012\Projects\fo_library2\ReservationConsoleApplication\obj\Debug\ReservationConsoleApplication.pdb
+P:\1_Фёдоров\fo_library2\ReservationConsoleApplication\bin\Debug\ReservationConsoleApplication.exe.config
+P:\1_Фёдоров\fo_library2\ReservationConsoleApplication\obj\Debug\ReservationConsoleApplication.exe
+P:\1_Фёдоров\fo_library2\ReservationConsoleApplication\obj\Debug\ReservationConsoleApplication.pdb
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\ReservationConsoleApplication.exe.config
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\ReservationConsoleApplication.exe
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\ReservationConsoleApplication.pdb
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\fo_library.Choosing.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\fo_library.reservation.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\fo_library.Model.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Atechnology.ecad.Document.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Atechnology.DBConnection.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Atechnology.ecad.Settings.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Atechnology.Components.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Atechnology.squareOPT.Math.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\DevExpress.XtraGrid.v8.2.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\DevExpress.XtraLayout.v8.2.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\DevExpress.Utils.v8.2.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Atechnology.ecad.Dictionary.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Atechnology.winDraw.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Atechnology.winDraw.Model.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Atechnology.lineOPT.Math.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\SandDock.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\DevExpress.XtraScheduler.v8.2.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\DevExpress.XtraCharts.v8.2.UI.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\DevExpress.XtraCharts.v8.2.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\DevExpress.Data.v8.2.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\DevExpress.XtraVerticalGrid.v8.2.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Atechnology.FrontalCAE.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Atechnology.ecad.Calc.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Atechnology.ecad.Report.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Atechnology.Logging.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\log4net.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\DevExpress.XtraBars.v8.2.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\vjslib.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Atechnology.DXF.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\DevExpress.XtraScheduler.v8.2.Core.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\DevExpress.Charts.v8.2.Core.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\CsGL.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\QWhale.Editor.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\QWhale.Syntax.Parsers.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\QWhale.Syntax.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Stimulsoft.Report.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Stimulsoft.Report.Win.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Stimulsoft.Report.Design.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\QWhale.Common.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Stimulsoft.Base.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Stimulsoft.Controls.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Stimulsoft.Editor.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\Stimulsoft.Report.Helper.dll
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\fo_library.Choosing.pdb
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\fo_library.reservation.pdb
+D:\fo_library2\ReservationConsoleApplication\bin\Debug\fo_library.Model.pdb
+D:\fo_library2\ReservationConsoleApplication\obj\Debug\ReservationConsoleApplication.csprojResolveAssemblyReference.cache
+D:\fo_library2\ReservationConsoleApplication\obj\Debug\ReservationConsoleApplication.exe
+D:\fo_library2\ReservationConsoleApplication\obj\Debug\ReservationConsoleApplication.pdb

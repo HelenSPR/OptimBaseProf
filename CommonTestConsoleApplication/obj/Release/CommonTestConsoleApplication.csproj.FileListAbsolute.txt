@@ -1,0 +1,107 @@
+D:\fo_library2\CommonTestConsoleApplication\obj\Release\CommonTestConsoleApplication.csprojResolveAssemblyReference.cache
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\CommonTestConsoleApplication.exe
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\CommonTestConsoleApplication.pdb
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Choosing.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Model.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Document.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.DBConnection.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Settings.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.Components.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.squareOPT.Math.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraGrid.v8.2.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraEditors.v8.2.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraLayout.v8.2.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.Utils.v8.2.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Dictionary.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.winDraw.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.winDraw.Model.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.lineOPT.Math.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\SandDock.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraScheduler.v8.2.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraCharts.v8.2.UI.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraCharts.v8.2.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.Data.v8.2.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.FrontalCAE.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Calc.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Report.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.Logging.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\log4net.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraBars.v8.2.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\vjslib.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.DXF.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraScheduler.v8.2.Core.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.Charts.v8.2.Core.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\CsGL.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\QWhale.Editor.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\QWhale.Syntax.Parsers.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\QWhale.Syntax.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Stimulsoft.Report.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Stimulsoft.Report.Win.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Stimulsoft.Report.Design.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\QWhale.Common.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Stimulsoft.Base.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Stimulsoft.Controls.Win.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Stimulsoft.Controls.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Stimulsoft.Editor.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Stimulsoft.Report.Helper.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Choosing.pdb
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Model.pdb
+D:\fo_library2\CommonTestConsoleApplication\obj\Release\CommonTestConsoleApplication.exe
+D:\fo_library2\CommonTestConsoleApplication\obj\Release\CommonTestConsoleApplication.pdb
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Validation.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Correspondence.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Validation.pdb
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Correspondence.pdb
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Export.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Export.pdb
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Calc.SystemScript.dll
+D:\fo_library2\CommonTestConsoleApplication\bin\Release\LinqBridge.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\CommonTestConsoleApplication.exe
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\CommonTestConsoleApplication.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Choosing.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Export.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.FastExport.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Validation.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Document.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Model.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.winDraw.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Correspondence.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.winDraw.Model.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Calc.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.Components.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Settings.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Validation.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Choosing.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Export.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.FastExport.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Model.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Correspondence.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\obj\Release\CommonTestConsoleApplication.csprojResolveAssemblyReference.cache
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\obj\Release\CommonTestConsoleApplication.exe
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\obj\Release\CommonTestConsoleApplication.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\log4net.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DatabaseHelper.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.Charts.v8.2.Core.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.Data.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.Utils.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraBars.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraCharts.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraCharts.v8.2.UI.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraEditors.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraGrid.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraLayout.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraScheduler.v8.2.Core.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraScheduler.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraScheduler.v8.2.Extensions.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.Logging.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.OptimBaseProfKlaes.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.OptimBaseProfKlaes.pdb

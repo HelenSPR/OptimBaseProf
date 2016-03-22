@@ -1,0 +1,84 @@
+D:\fo_library2\ValidateConsoleApplication\bin\Release\ValidateConsoleApplication.exe
+D:\fo_library2\ValidateConsoleApplication\bin\Release\ValidateConsoleApplication.pdb
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.Components.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.DBConnection.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.ecad.Calc.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.ecad.Document.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.winDraw.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.winDraw.Model.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\fo_library.Model.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\fo_library.Validation.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\fo_library.Correspondence.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.ecad.Settings.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraEditors.v8.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.Utils.v8.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraGrid.v8.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraBars.v8.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\SandDock.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.Logging.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\log4net.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.Data.v8.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraLayout.v8.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.lineOPT.Math.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraTreeList.v10.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraGrid.v10.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraEditors.v10.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.Utils.v10.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\QWhale.Editor.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraBars.v10.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\QWhale.Syntax.Parsers.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.Data.v10.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\QWhale.Syntax.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.squareOPT.Math.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.ecad.Dictionary.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraScheduler.v8.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraCharts.v8.2.UI.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraCharts.v8.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.FrontalCAE.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.ecad.Report.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Storage.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraLayout.v10.2.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\QWhale.Common.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\vjslib.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.DXF.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraScheduler.v8.2.Core.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.Charts.v8.2.Core.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\CsGL.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Stimulsoft.Report.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Stimulsoft.Report.Win.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Stimulsoft.Report.Design.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Stimulsoft.Base.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Stimulsoft.Controls.Win.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Stimulsoft.Controls.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Stimulsoft.Editor.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\Stimulsoft.Report.Helper.dll
+D:\fo_library2\ValidateConsoleApplication\bin\Release\fo_library.Validation.pdb
+D:\fo_library2\ValidateConsoleApplication\bin\Release\fo_library.Model.pdb
+D:\fo_library2\ValidateConsoleApplication\bin\Release\fo_library.Correspondence.pdb
+D:\fo_library2\ValidateConsoleApplication\obj\Release\ValidateConsoleApplication.csprojResolveAssemblyReference.cache
+D:\fo_library2\ValidateConsoleApplication\obj\Release\ValidateConsoleApplication.exe
+D:\fo_library2\ValidateConsoleApplication\obj\Release\ValidateConsoleApplication.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\ValidateConsoleApplication.exe
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\ValidateConsoleApplication.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\fo_library.Model.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\fo_library.Validation.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\fo_library.Correspondence.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\Atechnology.ecad.Settings.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\fo_library.Validation.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\fo_library.Model.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\fo_library.Correspondence.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\obj\Release\ValidateConsoleApplication.csprojResolveAssemblyReference.cache
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\obj\Release\ValidateConsoleApplication.exe
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\obj\Release\ValidateConsoleApplication.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraEditors.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.Utils.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraGrid.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraBars.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.Data.v8.2.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\ValidateConsoleApplication\bin\Release\DevExpress.XtraLayout.v8.2.dll

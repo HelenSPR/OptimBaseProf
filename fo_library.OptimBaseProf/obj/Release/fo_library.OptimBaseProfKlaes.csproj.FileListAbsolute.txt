@@ -1,0 +1,11 @@
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.OptimBaseProfKlaes.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.OptimBaseProfKlaes.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\bin\Release\Atechnology.Components.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\bin\Release\Atechnology.DBConnection.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\bin\Release\Atechnology.winDraw.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\bin\Release\Atechnology.winDraw.Model.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.Export.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.Export.pdb
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\obj\Release\fo_library.OptimBaseProfKlaes.dll
+C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\obj\Release\fo_library.OptimBaseProfKlaes.pdb

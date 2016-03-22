@@ -1,0 +1,91 @@
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\obj\Debug\fo_library.Choosing.csprojResolveAssemblyReference.cache
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\obj\Debug\fo_library.Choosing.SignStringValueChoosingView.resources
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\obj\Debug\fo_library.Choosing.csproj.GenerateResource.Cache
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\fo_library.Choosing.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\fo_library.Choosing.pdb
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\Atechnology.DBConnection.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\fo_library.Model.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\Atechnology.ecad.Settings.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\Atechnology.Logging.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\log4net.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\Atechnology.Components.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\DevExpress.Utils.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\DevExpress.XtraGrid.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\DevExpress.XtraBars.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\DevExpress.Data.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\DevExpress.XtraVerticalGrid.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\SandDock.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\DevExpress.XtraLayout.v8.2.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\bin\Debug\fo_library.Model.pdb
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\obj\Debug\fo_library.Choosing.dll
+C:\Users\n.fedorov\documents\visual studio 2012\Projects\fo_library.reservation\fo_library.Choosing\obj\Debug\fo_library.Choosing.pdb
+D:\fo_library2\fo_library.Choosing\bin\Debug\fo_library.Choosing.dll.config
+D:\fo_library2\fo_library.Choosing\bin\Debug\fo_library.Choosing.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\fo_library.Choosing.pdb
+D:\fo_library2\fo_library.Choosing\bin\Debug\Atechnology.ecad.Document.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\fo_library.Model.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\fo_library.Validation.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Atechnology.winDraw.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\fo_library.Correspondence.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Atechnology.winDraw.Model.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Atechnology.ecad.Calc.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Atechnology.ecad.Settings.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Atechnology.Logging.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\log4net.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Atechnology.Components.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Atechnology.squareOPT.Math.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\DevExpress.XtraGrid.v8.2.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\DevExpress.XtraLayout.v8.2.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\DevExpress.Utils.v8.2.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Atechnology.ecad.Dictionary.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Atechnology.lineOPT.Math.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\SandDock.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\DevExpress.XtraScheduler.v8.2.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\DevExpress.XtraCharts.v8.2.UI.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\DevExpress.XtraCharts.v8.2.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\DevExpress.Data.v8.2.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\DevExpress.XtraVerticalGrid.v8.2.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Atechnology.FrontalCAE.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Atechnology.ecad.Report.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\DevExpress.XtraBars.v8.2.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\QWhale.Editor.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\QWhale.Syntax.Parsers.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\QWhale.Syntax.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\vjslib.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Atechnology.DXF.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\DevExpress.XtraScheduler.v8.2.Core.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\DevExpress.Charts.v8.2.Core.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\CsGL.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Stimulsoft.Report.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Stimulsoft.Report.Win.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Stimulsoft.Report.Design.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\QWhale.Common.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Stimulsoft.Base.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Stimulsoft.Controls.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Stimulsoft.Editor.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\Stimulsoft.Report.Helper.dll
+D:\fo_library2\fo_library.Choosing\bin\Debug\fo_library.Validation.pdb
+D:\fo_library2\fo_library.Choosing\bin\Debug\fo_library.Model.pdb
+D:\fo_library2\fo_library.Choosing\bin\Debug\fo_library.Correspondence.pdb
+D:\fo_library2\fo_library.Choosing\obj\Debug\fo_library.Choosing.csprojResolveAssemblyReference.cache
+D:\fo_library2\fo_library.Choosing\obj\Debug\fo_library.Choosing.Common.ChoosingDatePeriodDialog.resources
+D:\fo_library2\fo_library.Choosing\obj\Debug\fo_library.Choosing.Common.ChoosingOrderDialog.resources
+D:\fo_library2\fo_library.Choosing\obj\Debug\fo_library.Choosing.Common.ManufactnameFormDialog.resources
+D:\fo_library2\fo_library.Choosing\obj\Debug\fo_library.Choosing.OfferPromotion.OfferPromotionEditDialog.resources
+D:\fo_library2\fo_library.Choosing\obj\Debug\fo_library.Choosing.OfferPromotion.OfferPromotionsDialog.resources
+D:\fo_library2\fo_library.Choosing\obj\Debug\fo_library.Choosing.OfferPromotion.OfferPromotionChoosingDialog.resources
+D:\fo_library2\fo_library.Choosing\obj\Debug\fo_library.Choosing.Properties.Resources.resources
+D:\fo_library2\fo_library.Choosing\obj\Debug\fo_library.Choosing.SignChoosing.AbstractsAndGenerics.SignChoosing.View.SignStringValueChoosingView.resources
+D:\fo_library2\fo_library.Choosing\obj\Debug\fo_library.Choosing.SignStringValueChoosingForm.resources
+D:\fo_library2\fo_library.Choosing\obj\Debug\fo_library.Choosing.csproj.GenerateResource.Cache
+D:\fo_library2\fo_library.Choosing\obj\Debug\fo_library.Choosing.dll
+D:\fo_library2\fo_library.Choosing\obj\Debug\fo_library.Choosing.pdb

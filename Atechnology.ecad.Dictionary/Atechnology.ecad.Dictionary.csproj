@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6720C7B1-99AB-4B29-8E98-948FB5D0038F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Atechnology.ecad.Dictionary</RootNamespace>
+    <AssemblyName>Atechnology.ecad.Dictionary</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Atechnology.Components">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.Components.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.DBConnection">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.DBConnection.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.DXF">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.DXF.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.ecad.Calc">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.ecad.Calc.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.ecad.Calc.SystemScript">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.ecad.Calc.SystemScript.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.ecad.Dictionary">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.ecad.Dictionary.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.ecad.Document">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.ecad.Document.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.ecad.Report">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.ecad.Report.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.ecad.Settings">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.ecad.Settings.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.FrontalCAE">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.FrontalCAE.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.lineOPT.Math">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.lineOPT.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.Logging">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.squareOPT.Math">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.squareOPT.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.winDraw">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.winDraw.dll</HintPath>
+    </Reference>
+    <Reference Include="Atechnology.winDraw.Model">
+      <HintPath>..\fo_library.FastExport\bin\Release\Atechnology.winDraw.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="CsGL">
+      <HintPath>..\fo_library.FastExport\bin\Release\CsGL.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v8.2.Core">
+      <HintPath>..\fo_library.FastExport\bin\Release\DevExpress.Charts.v8.2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v8.2">
+      <HintPath>..\fo_library.FastExport\bin\Release\DevExpress.Data.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v8.2">
+      <HintPath>..\fo_library.FastExport\bin\Release\DevExpress.Utils.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v8.2">
+      <HintPath>..\fo_library.FastExport\bin\Release\DevExpress.XtraBars.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v8.2">
+      <HintPath>..\fo_library.FastExport\bin\Release\DevExpress.XtraCharts.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v8.2.UI">
+      <HintPath>..\fo_library.FastExport\bin\Release\DevExpress.XtraCharts.v8.2.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v8.2">
+      <HintPath>..\fo_library.FastExport\bin\Release\DevExpress.XtraEditors.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v8.2">
+      <HintPath>..\fo_library.FastExport\bin\Release\DevExpress.XtraGrid.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v8.2">
+      <HintPath>..\fo_library.FastExport\bin\Release\DevExpress.XtraLayout.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v8.2">
+      <HintPath>..\fo_library.FastExport\bin\Release\DevExpress.XtraNavBar.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v8.2">
+      <HintPath>..\fo_library.FastExport\bin\Release\DevExpress.XtraScheduler.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v8.2.Core">
+      <HintPath>..\fo_library.FastExport\bin\Release\DevExpress.XtraScheduler.v8.2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v8.2">
+      <HintPath>..\fo_library.FastExport\bin\Release\DevExpress.XtraTreeList.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v8.2">
+      <HintPath>..\fo_library.FastExport\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>..\fo_library.FastExport\bin\Release\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="LinqBridge">
+      <HintPath>..\fo_library.FastExport\bin\Release\LinqBridge.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\fo_library.FastExport\bin\Release\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="QWhale.Common">
+      <HintPath>..\fo_library.FastExport\bin\Release\QWhale.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="QWhale.Editor">
+      <HintPath>..\fo_library.FastExport\bin\Release\QWhale.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="QWhale.Syntax">
+      <HintPath>..\fo_library.FastExport\bin\Release\QWhale.Syntax.dll</HintPath>
+    </Reference>
+    <Reference Include="QWhale.Syntax.Parsers">
+      <HintPath>..\fo_library.FastExport\bin\Release\QWhale.Syntax.Parsers.dll</HintPath>
+    </Reference>
+    <Reference Include="SandDock">
+      <HintPath>..\fo_library.FastExport\bin\Release\SandDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Base">
+      <HintPath>..\fo_library.FastExport\bin\Release\Stimulsoft.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Controls">
+      <HintPath>..\fo_library.FastExport\bin\Release\Stimulsoft.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Controls.Win">
+      <HintPath>..\fo_library.FastExport\bin\Release\Stimulsoft.Controls.Win.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Editor">
+      <HintPath>..\fo_library.FastExport\bin\Release\Stimulsoft.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report">
+      <HintPath>..\fo_library.FastExport\bin\Release\Stimulsoft.Report.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.Design">
+      <HintPath>..\fo_library.FastExport\bin\Release\Stimulsoft.Report.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.Helper">
+      <HintPath>..\fo_library.FastExport\bin\Release\Stimulsoft.Report.Helper.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.Win">
+      <HintPath>..\fo_library.FastExport\bin\Release\Stimulsoft.Report.Win.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddClassification.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdvertisingActionForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ColorForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ConstructionTypeForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CreateGoodForColorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DestanationForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DocOperForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DocStateForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DocType.cs" />
+    <Compile Include="DocumentType.cs" />
+    <Compile Include="EditTableInSettingForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmbrasureTypeForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ErrorEditForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ErrorForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ErrorTypeForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FormColorPrice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GlassForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GoodAnalogForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GoodBufferEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GoodBufferForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GoodBufferUtils.cs" />
+    <Compile Include="GoodEditForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GoodForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GoodKitAddForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GoodKitForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GoodOptimForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GoodOptimOutSettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GoodParamNameForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GoodPriceUpdateForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Goods.cs" />
+    <Compile Include="GoodServiceForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GoodTypeForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IdName.cs" />
+    <Compile Include="Kladr.cs" />
+    <Compile Include="MarkingFilterForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Measure.cs" />
+    <Compile Include="MeasureForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptimType.cs" />
+    <Compile Include="PaymentGroupForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PeoplePost.cs" />
+    <Compile Include="PeoplePostForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PicturesForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PollAnswerSelectForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PollEditForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PollForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PollQuestionSelectForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PriceChangeListForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PriceHistoryForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ProductionTypeClass.cs" />
+    <Compile Include="ProfileSystemChangeForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PyramidForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SelectGoodForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SelectGoodKitForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SelectVarsForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ServiceReasonForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SignDirForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SourceInfoForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StoreDepartForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StoreDocType.cs" />
+    <Compile Include="System1.cs" />
+    <Compile Include="SystemDetailRelationshipForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TemplateForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TemplateProductionTypeForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Valut.cs" />
+    <Compile Include="ValutCursForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ValutForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VarsForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WorkOperClass.cs" />
+    <Compile Include="WorkOperForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
