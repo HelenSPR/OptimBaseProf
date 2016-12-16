@@ -91,14 +91,17 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\fo_library.Export\bin\Release\fo_library.Export.dll</HintPath>
     </Reference>
-    <Reference Include="fo_library.FastExport">
-      <HintPath>..\fo_library.FastExport\bin\Release\fo_library.FastExport.dll</HintPath>
-    </Reference>
     <Reference Include="fo_library.OptimBaseProfKlaes">
       <HintPath>..\fo_library.OptimBaseProf\bin\Release\fo_library.OptimBaseProfKlaes.dll</HintPath>
     </Reference>
+    <Reference Include="fo_library.URLExtension">
+      <HintPath>..\URLExtension\bin\Release\fo_library.URLExtension.dll</HintPath>
+    </Reference>
     <Reference Include="log4net">
       <HintPath>..\fo_library.OptimBaseProf\bin\Release\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\..\..\..\..\..\..\MyProject\! FO_LIBRARY\fo_library\fo_library\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -113,14 +116,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\fo.ModelValidator\fo_library.Validation.csproj">
-      <Project>{b89a1b64-1fb2-4c24-b1f9-3a6222ef2c3e}</Project>
-      <Name>fo_library.Validation</Name>
-    </ProjectReference>
     <ProjectReference Include="..\fo_library.Choosing\fo_library.Choosing.csproj">
       <Project>{8ee7f390-d4a8-472c-a431-4c45a193426b}</Project>
       <Name>fo_library.Choosing</Name>
     </ProjectReference>
+    <ProjectReference Include="..\fo_library.FastExport\fo_library.FastExport.csproj">
+      <Project>{a4d9bb67-3d93-4dd9-ac22-bd42db3605aa}</Project>
+      <Name>fo_library.FastExport</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

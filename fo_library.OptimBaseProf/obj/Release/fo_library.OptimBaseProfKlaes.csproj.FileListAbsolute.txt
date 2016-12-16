@@ -9,3 +9,26 @@ C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_
 C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.Export.pdb
 C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\obj\Release\fo_library.OptimBaseProfKlaes.dll
 C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.OptimBaseProf\obj\Release\fo_library.OptimBaseProfKlaes.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.OptimBaseProfKlaes.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.OptimBaseProfKlaes.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\Atechnology.Components.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\Atechnology.DBConnection.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\Atechnology.winDraw.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\Atechnology.winDraw.Model.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.Export.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.Export.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\obj\Release\fo_library.OptimBaseProfKlaes.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\obj\Release\fo_library.OptimBaseProfKlaes.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.OptimBaseProfKlaes.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.OptimBaseProfKlaes.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\Atechnology.Components.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\Atechnology.DBConnection.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\Atechnology.winDraw.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\Atechnology.winDraw.Model.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.Export.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\bin\Release\fo_library.Export.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\obj\Release\fo_library.OptimBaseProfKlaes.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\obj\Release\fo_library.OptimBaseProfKlaes.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.OptimBaseProf\obj\Release\fo_library.OptimBaseProfKlaes.csprojResolveAssemblyReference.cache

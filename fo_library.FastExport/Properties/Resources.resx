@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="StisTemp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="StisGlassPackTemp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\StisTemp.xls;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="StisTempNonStand" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="StisGlassPackTempNonStand" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\StisTempNonStand.xls;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="StisTempNonStandScketch" type="System.Resources.ResXFileRef, System.Windows.Forms">

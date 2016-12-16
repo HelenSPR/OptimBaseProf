@@ -105,3 +105,95 @@ C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release
 C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.Logging.dll
 C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.OptimBaseProfKlaes.dll
 C:\MyProject\! FO_LIBRARY 2\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.OptimBaseProfKlaes.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\obj\Release\CommonTestConsoleApplication.exe
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\obj\Release\CommonTestConsoleApplication.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\obj\Release\CommonTestConsoleApplication.csprojResolveAssemblyReference.cache
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\CommonTestConsoleApplication.exe
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\CommonTestConsoleApplication.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.Logging.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DatabaseHelper.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.Charts.v8.2.Core.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.Data.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.Utils.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraBars.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraCharts.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraCharts.v8.2.UI.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraEditors.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraGrid.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraLayout.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraScheduler.v8.2.Core.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraScheduler.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraScheduler.v8.2.Extensions.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Choosing.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Export.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.FastExport.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.OptimBaseProfKlaes.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Validation.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\log4net.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Document.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Model.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.winDraw.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Correspondence.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.winDraw.Model.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Calc.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.Components.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Settings.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Validation.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Choosing.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Export.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.FastExport.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.OptimBaseProfKlaes.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Model.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Correspondence.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\obj\Release\CommonTestConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\CommonTestConsoleApplication.exe
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\CommonTestConsoleApplication.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.Logging.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DatabaseHelper.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.Charts.v8.2.Core.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.Data.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.Utils.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraBars.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraCharts.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraCharts.v8.2.UI.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraEditors.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraGrid.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraLayout.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraScheduler.v8.2.Core.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraScheduler.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraScheduler.v8.2.Extensions.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Choosing.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Export.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Validation.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\log4net.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Document.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Model.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.winDraw.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Correspondence.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.winDraw.Model.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Calc.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.Components.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Atechnology.ecad.Settings.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Validation.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Choosing.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Export.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.OptimBaseProfKlaes.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Model.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.Correspondence.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\obj\Release\CommonTestConsoleApplication.exe
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\obj\Release\CommonTestConsoleApplication.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.FastExport.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.FastExport.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.OptimBaseProfKlaes.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\CommonTestConsoleApplication.exe.config
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\Newtonsoft.Json.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.URLExtension.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\CommonTestConsoleApplication\bin\Release\fo_library.URLExtension.pdb

@@ -58,3 +58,41 @@ C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Releas
 C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraNavBar.v8.2.dll
 C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.Data.v8.2.dll
 C:\MyProject\! FO_LIBRARY 2\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraLayout.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\SettingTestConsoleApplication.exe.config
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\SettingTestConsoleApplication.exe
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\SettingTestConsoleApplication.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Correspondence.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Model.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\Atechnology.ecad.Settings.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraEditors.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.Utils.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraGrid.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraBars.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.Data.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraLayout.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Correspondence.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Model.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\obj\Release\SettingTestConsoleApplication.csprojResolveAssemblyReference.cache
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\obj\Release\SettingTestConsoleApplication.exe
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\obj\Release\SettingTestConsoleApplication.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\SettingTestConsoleApplication.exe.config
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\SettingTestConsoleApplication.exe
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\SettingTestConsoleApplication.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Correspondence.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Model.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\Atechnology.ecad.Settings.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraEditors.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.Utils.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraGrid.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraBars.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.Data.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\DevExpress.XtraLayout.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Correspondence.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\bin\Release\fo_library.Model.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\obj\Release\SettingTestConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\obj\Release\SettingTestConsoleApplication.exe
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\SettingTestConsoleApplication\obj\Release\SettingTestConsoleApplication.pdb

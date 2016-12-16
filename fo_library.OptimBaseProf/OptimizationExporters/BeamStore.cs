@@ -13,12 +13,12 @@ namespace OptimBaseProf
         private static int _MAX_COUNT_REMAINDER_FRAME = 10;
         private static int _MAX_COUNT_REMAINDER_IMPOST = 10;
         // Словарь створок со значение номеров ячеек и тележек для балок, входящих в эти створки.
-        private Dictionary<clsLeaf, CartCell<SawBeam>> leafCartCellNumber = new Dictionary<clsLeaf, CartCell<SawBeam>>();
+        private Dictionary<clsLeaf, Dictionary<int, CartCell<SawBeam>>> leafCartCellNumber = new Dictionary<clsLeaf, Dictionary<int, CartCell<SawBeam>>>();
         private int leafCartNumber = 1;
         private int leafCellNumber = 0;
 
         // Словарь модели со значение номеров ячеек и тележек для балок рамы, входящ в эту модель.
-        private Dictionary<clsModel, CartCell<SawBeam>> modelCartCellNumber = new Dictionary<clsModel, CartCell<SawBeam>>();
+        private Dictionary<clsModel, Dictionary<int, CartCell<SawBeam>>> modelCartCellNumber = new Dictionary<clsModel, Dictionary<int, CartCell<SawBeam>>>();
         private int frameCartNumber = 1;
         private int frameCellNumber = 0;
 
@@ -43,7 +43,7 @@ namespace OptimBaseProf
         // Получить ячейку в которой лежить балка
         public CartCell<SawBeam> GetCartCell(SawBeam sawBeam)
         {
-            if (sawBeam.ClsBeem == null) // ostatok
+            if (sawBeam.ClsBeem == null && sawBeam.RemainderName == "OSTATOK") // ostatok
             {
                 if (sawBeam.RemPartName.Contains("И-"))
                 {
@@ -69,29 +69,41 @@ namespace OptimBaseProf
             }
             else
             {
-                if (sawBeam.ClsBeem.BalkaType == ModelPart.StvorkaItem)
+                ModelPart mp = sawBeam.ClsBeem != null ?  sawBeam.ClsBeem.BalkaType : ModelPart.Unknown;
+
+                if (sawBeam.ClsBeem == null && sawBeam.RemainderName == string.Empty && sawBeam.ModelPartName != string.Empty)
                 {
+                    if (sawBeam.ModelPartName.Contains("И")) mp = ModelPart.Impost;
+                    if (sawBeam.ModelPartName.Contains("Р")) mp = ModelPart.Rama;
+                    if (sawBeam.ModelPartName.Contains("С") || sawBeam.ModelPartName.Contains("C")) mp = ModelPart.Stvorka;
+                } ;
+                
+
+
+                if (mp == ModelPart.StvorkaItem)
+                {
+                    int num = 0;
                     clsLeaf leaf = ((clsLeafBeem)sawBeam.ClsBeem).Leaf;
 
                     if (leafCartCellNumber.ContainsKey(leaf))
                     {
-                        return leafCartCellNumber[leaf];
+                        return leafCartCellNumber[leaf][sawBeam.Num - 1];
                     }
 
                     throw new Exception("Балка створки отсутствует в хранилище. idoptimdocpos = " + sawBeam.IdOptimDocPos);
                 }
 
-                if (sawBeam.ClsBeem.BalkaType == ModelPart.RamaItem)
+                if (mp == ModelPart.RamaItem)
                 {
                     if (modelCartCellNumber.ContainsKey(sawBeam.ClsBeem.Model))
                     {
-                        return modelCartCellNumber[sawBeam.ClsBeem.Model];
+                        return modelCartCellNumber[sawBeam.ClsBeem.Model][sawBeam.Num - 1];
                     }
 
                     throw new Exception("Балка рамы отсутствует в хранилище. idoptimdocpos = " + sawBeam.IdOptimDocPos);
                 }
 
-                if (sawBeam.ClsBeem.BalkaType == ModelPart.Impost || sawBeam.ClsBeem.BalkaType == ModelPart.Shtulp)
+                if (mp == ModelPart.Impost || mp == ModelPart.Shtulp)
                 {
                     var kvPair = manufactNameCartCellNumberList.FirstOrDefault(kv => kv.Key == sawBeam.ManufactName
                                                                                                && kv.Value.FirstOrDefault(beam => beam == sawBeam) != null);
@@ -101,6 +113,7 @@ namespace OptimBaseProf
                     throw new Exception("В хранилище не найдена ячейка для данного импоста. idoptimdocpos = " + sawBeam.IdOptimDocPos);
                 }
             }
+
 
             throw new Exception("При размещении в хранилище тип балки не определен. idoptimdocpos = " + sawBeam.IdOptimDocPos);
         }
@@ -114,23 +127,32 @@ namespace OptimBaseProf
 
             foreach (var beam in beams)
             {
-                if (beam.ClsBeem == null)
+                if (beam.ClsBeem == null && beam.RemainderName == "OSTATOK")
                 {
                     PutOstatok(beam);
                 }
                 else
                 {
-                    if (beam.ClsBeem.BalkaType == ModelPart.StvorkaItem)
+                    ModelPart mp = beam.ClsBeem != null ? beam.ClsBeem.BalkaType : ModelPart.Unknown;
+
+                    if (beam.ClsBeem == null && beam.RemainderName == string.Empty && beam.ModelPartName != string.Empty)
+                    {
+                        if (beam.ModelPartName.Contains("И")) mp = ModelPart.Impost;
+                        if (beam.ModelPartName.Contains("Р")) mp = ModelPart.Rama;
+                        if (beam.ModelPartName.Contains("С") || beam.ModelPartName.Contains("C")) mp = ModelPart.Stvorka;
+                    };
+
+                    if (mp == ModelPart.StvorkaItem)
                     {
                         PutLeafBeam(beam);
                     }
 
-                    if (beam.ClsBeem.BalkaType == ModelPart.RamaItem)
+                    if (mp == ModelPart.RamaItem)
                     {
                         PutFrameBeam(beam);
                     }
 
-                    if (beam.ClsBeem.BalkaType == ModelPart.Impost || beam.ClsBeem.BalkaType == ModelPart.Shtulp)
+                    if (mp == ModelPart.Impost || mp == ModelPart.Shtulp)
                     {
                         PutImpost(beam);
                     }
@@ -146,34 +168,71 @@ namespace OptimBaseProf
         private void PutLeafBeam(SawBeam sawBeam)
         {
 
-            if (!leafCartCellNumber.ContainsKey(((clsLeafBeem)sawBeam.ClsBeem).Leaf))
-            {
-                if (++leafCellNumber == 11)
+                if (!leafCartCellNumber.ContainsKey(((clsLeafBeem)sawBeam.ClsBeem).Leaf))
                 {
-                    leafCellNumber = 1;
-                    leafCartNumber++;
+                    if (++leafCellNumber == 11)
+                    {
+                        leafCellNumber = 1;
+                        leafCartNumber++;
+                    }
+
+                    CartCell<SawBeam> cartCell = new CartCell<SawBeam>(leafCartNumber, leafCellNumber, "F", string.Empty);
+                    Dictionary<int, CartCell<SawBeam>> cartCellList = new Dictionary<int, CartCell<SawBeam>>();
+                    cartCellList.Add(sawBeam.Num - 1, cartCell);
+
+                    leafCartCellNumber.Add(((clsLeafBeem)sawBeam.ClsBeem).Leaf, cartCellList);
                 }
+                else
+                {
+                    if (!leafCartCellNumber[((clsLeafBeem)sawBeam.ClsBeem).Leaf].ContainsKey(sawBeam.Num - 1))
+                    {
+                        if (++leafCellNumber == 11)
+                        {
+                            leafCellNumber = 1;
+                            leafCartNumber++;
+                        }
 
-                CartCell<SawBeam> cartCell = new CartCell<SawBeam>(leafCartNumber, leafCellNumber, "F", string.Empty);
+                        CartCell<SawBeam> cartCell = new CartCell<SawBeam>(leafCartNumber, leafCellNumber, "F", string.Empty);
 
-                leafCartCellNumber.Add(((clsLeafBeem)sawBeam.ClsBeem).Leaf, cartCell);
-            }
+                        //leafCartCellNumber.Add(((clsLeafBeem)sawBeam.ClsBeem).Leaf, cartCellList);
+                        leafCartCellNumber[((clsLeafBeem)sawBeam.ClsBeem).Leaf].Add(sawBeam.Num - 1, cartCell);
+                    }
+                }
+            
         }
 
         // положить балку рамы в ячейку
         private void PutFrameBeam(SawBeam sawBeam)
         {
-            if (!modelCartCellNumber.ContainsKey(sawBeam.ClsBeem.Model))
-            {
-                if (++frameCellNumber == 11)
+                if (!modelCartCellNumber.ContainsKey(sawBeam.ClsBeem.Model))
                 {
-                    frameCellNumber = 1;
-                    frameCartNumber++;
+                    if (++frameCellNumber == 11)
+                    {
+                        frameCellNumber = 1;
+                        frameCartNumber++;
+                    }
+
+                    CartCell<SawBeam> cartCell = new CartCell<SawBeam>(frameCartNumber, frameCellNumber, "B", string.Empty);
+                    Dictionary<int, CartCell<SawBeam>> dict = new Dictionary<int, CartCell<SawBeam>>();
+                    dict.Add(sawBeam.Num - 1, cartCell);
+
+                    modelCartCellNumber.Add(sawBeam.ClsBeem.Model, dict);
                 }
+            else   // кол-во изделий > 1 и одно из изделий уложено в ячейку
+            {
 
-                CartCell<SawBeam> cartCell = new CartCell<SawBeam>(frameCartNumber, frameCellNumber, "B", string.Empty);
+                if (!modelCartCellNumber[sawBeam.ClsBeem.Model].ContainsKey(sawBeam.Num - 1))
+                {
+                    if (++frameCellNumber == 11)
+                    {
+                        frameCellNumber = 1;
+                        frameCartNumber++;
+                    }
 
-                modelCartCellNumber.Add(sawBeam.ClsBeem.Model, cartCell);
+                    CartCell<SawBeam> cartCell = new CartCell<SawBeam>(frameCartNumber, frameCellNumber, "B", string.Empty);
+
+                    modelCartCellNumber[sawBeam.ClsBeem.Model].Add(sawBeam.Num - 1, cartCell);
+                }
             }
         }
 

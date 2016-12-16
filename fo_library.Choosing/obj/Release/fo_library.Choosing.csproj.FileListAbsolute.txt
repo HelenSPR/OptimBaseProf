@@ -102,3 +102,79 @@ C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Choosing\bin\Release\DevExpre
 C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraBars.v8.2.dll
 C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraNavBar.v8.2.dll
 C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.Choosing\bin\Release\Atechnology.Logging.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Choosing.dll.config
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Choosing.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Choosing.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Model.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Validation.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\Atechnology.winDraw.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Correspondence.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\Atechnology.winDraw.Model.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\Atechnology.ecad.Calc.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\Atechnology.ecad.Settings.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\Atechnology.Logging.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\log4net.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\Atechnology.Components.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraGrid.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraEditors.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraLayout.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.Utils.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.Data.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraBars.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Validation.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Model.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Correspondence.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.csprojResolveAssemblyReference.cache
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.Common.ChoosingDatePeriodDialog.resources
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.Common.ChoosingOrderDialog.resources
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.Common.ManufactnameFormDialog.resources
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.OfferPromotion.OfferPromotionEditDialog.resources
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.OfferPromotion.OfferPromotionsDialog.resources
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.OfferPromotion.OfferPromotionChoosingDialog.resources
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.Properties.Resources.resources
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.SignChoosing.AbstractsAndGenerics.SignChoosing.View.SignStringValueChoosingView.resources
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.SignStringValueChoosingForm.resources
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.csproj.GenerateResource.Cache
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Choosing.dll.config
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Choosing.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Choosing.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Model.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Validation.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\Atechnology.winDraw.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Correspondence.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\Atechnology.winDraw.Model.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\Atechnology.ecad.Calc.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\Atechnology.ecad.Settings.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\Atechnology.Logging.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\log4net.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\Atechnology.Components.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraGrid.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraEditors.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraLayout.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.Utils.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.Data.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraBars.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Validation.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Model.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\bin\Release\fo_library.Correspondence.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.Common.ChoosingDatePeriodDialog.resources
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.Common.ChoosingOrderDialog.resources
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.Common.ManufactnameFormDialog.resources
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.OfferPromotion.OfferPromotionEditDialog.resources
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.OfferPromotion.OfferPromotionsDialog.resources
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.OfferPromotion.OfferPromotionChoosingDialog.resources
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.Properties.Resources.resources
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.SignChoosing.AbstractsAndGenerics.SignChoosing.View.SignStringValueChoosingView.resources
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.SignStringValueChoosingForm.resources
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.csproj.GenerateResource.Cache
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.Choosing\obj\Release\fo_library.Choosing.csprojResolveAssemblyReference.cache

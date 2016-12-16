@@ -11,10 +11,16 @@ namespace OptimBaseProf
     internal class SawWorkpiece
     {
         private readonly DataRow _picRow;
+        public string Article
+        { get { return (string)_picRow["article"]; } }
+
         public readonly List<SawBeam> SawBeamList;
 
         public readonly int IdOptimDocPic;
         public readonly int IdOptimDoc;
+        public readonly int IdColor1;
+        public readonly int IdColor2;
+
 
         internal SawWorkpiece(DataRow picRow)
         {
@@ -22,6 +28,8 @@ namespace OptimBaseProf
 
             IdOptimDoc = (int)picRow["idoptimdoc"];
             IdOptimDocPic = (int)picRow["idoptimdocpic"];
+            IdColor1 = (int)picRow["color1"];
+            IdColor2 = (int)picRow["color2"];
 
             SawBeamList = new List<SawBeam>();
         }

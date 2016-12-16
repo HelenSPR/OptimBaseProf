@@ -83,6 +83,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Compile Include="SupplyExporters\CrystalitSupplyExporter.cs" />
+    <Compile Include="SupplyExporters\StisGlassPackNonStandartExporter.cs" />
+    <Compile Include="SupplyExporters\StisGlasspackNonStandartSketchExporter.cs" />
+    <Compile Include="SupplyExporters\StisGlassPackStandartExporter.cs" />
     <Compile Include="SupplyExporters\SupplyExporter.cs" />
     <Compile Include="SupplyExporters\SupplyExporterExcel.cs" />
     <Compile Include="SupplyExporters\TbmSupplyExporter.cs" />
@@ -98,8 +101,8 @@
   <ItemGroup>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources1.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

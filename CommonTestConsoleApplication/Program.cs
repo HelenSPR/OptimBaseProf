@@ -59,16 +59,17 @@ namespace CommonTestConsoleApplication
 
             //string idoptimdocs = "1709,1710,1711,1712,1713,1714,1715";
             //int idoptimdocs = 3454; OLD
+     
 
-            int idoptimdocs = 5224; //5140; // 5140;//5137;//5119;//5112; //5094;
+            int idoptimdocs = 8003;// - трапеция прямая //6011 - трапеция кривая; //6337; //5651;//5469;//5400; //5140; // 5140;//5137;//5119;//5112; //5094;
             //fo_library.Export.fo_export.OptimizedMainProfileExport(idoptimdocs);
             string FilePath = "";
             //**************** задание на пилу **********************************
-            OptimBaseProf.OptimBaseProf.getOptimBaseProf(idoptimdocs); //ONE верно
+            OptimBaseProf.OptimBaseProf.FileGenerator(idoptimdocs, "c:\\MyProject\\123\\sawfile\\"); //ONE верно
 
             //fo_library.Export.fo_export.OptimizedMainProfileExport(idoptimdocs);  //TWO неверно
 
-            //fo_library.Export.fo_export.SupplyGlassPackExport(1119);
+            //fo_library.Export.fo_export.SupplyGlassPackExport(3467); //3297
             //fo_library.Export.fo_export.SupplyWindowsillExport(1119);
             //FastExport.FastExport.SupplyWindowsillExport(124);
 

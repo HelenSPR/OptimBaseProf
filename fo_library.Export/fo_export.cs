@@ -74,9 +74,9 @@ namespace fo_library.Export
         public static void SupplyGlassPackExport(int supplyDocumentId)
         {
             FolderBrowserDialog fbDialog = new FolderBrowserDialog();
-
-            if (fbDialog.ShowDialog() != DialogResult.OK)
-                return;
+            fbDialog.SelectedPath = "c:\\test";
+            //if (fbDialog.ShowDialog() != DialogResult.OK)
+               // return;
 
             // -- Информация по контрагенту фабрики окон
             Contractor contractor = Contractor.GetContractor();

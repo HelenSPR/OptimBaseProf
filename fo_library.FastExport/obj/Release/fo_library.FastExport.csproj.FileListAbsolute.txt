@@ -22,3 +22,59 @@ C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.FastExport\bin\Release\DevExp
 C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.FastExport\bin\Release\log4net.dll
 C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.FastExport\bin\Release\DevExpress.Data.v8.2.dll
 C:\MyProject\! FO_LIBRARY 2\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraLayout.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\fo_library.FastExport.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\fo_library.FastExport.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\Atechnology.Components.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\Atechnology.DBConnection.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\Atechnology.winDraw.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\Atechnology.winDraw.Model.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\fo_library.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\fo_library.Export.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\Microsoft.Office.Interop.Excel.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\OFFICE.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraEditors.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.Utils.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraGrid.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraBars.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\log4net.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.Data.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraLayout.v8.2.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\fo_library.Export.pdb
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\Microsoft.Office.Interop.Excel.xml
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\OFFICE.xml
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\obj\Release\fo_library.FastExport.csprojResolveAssemblyReference.cache
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\obj\Release\fo_library.FastExport.Properties.Resources.resources
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\obj\Release\fo_library.FastExport.csproj.GenerateResource.Cache
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\obj\Release\fo_library.FastExport.dll
+c:\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\obj\Release\fo_library.FastExport.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\fo_library.FastExport.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\fo_library.FastExport.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\Atechnology.Components.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\Atechnology.DBConnection.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\Atechnology.winDraw.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\Atechnology.winDraw.Model.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\fo_library.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\fo_library.Export.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\OFFICE.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraTreeList.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraEditors.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.Utils.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraGrid.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraVerticalGrid.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraBars.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraNavBar.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\log4net.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.Data.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\DevExpress.XtraLayout.v8.2.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\fo_library.Export.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\bin\Release\OFFICE.xml
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\obj\Release\fo_library.FastExport.Properties.Resources.resources
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\obj\Release\fo_library.FastExport.csproj.GenerateResource.Cache
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\obj\Release\fo_library.FastExport.dll
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\obj\Release\fo_library.FastExport.pdb
+C:\Users\e.spiridonova\Google Диск\MyProjects\MyProject\! FO_LIBRARY 2\fo_library2_git\fo_library2\fo_library.FastExport\obj\Release\fo_library.FastExport.csprojResolveAssemblyReference.cache
